@@ -1,35 +1,43 @@
-# Forma Studio Pro
+# Forma Studio — versão estratégica
 
-Editor visual de frameworks e mapas mentais em português, com aparência inspirada em interfaces modernas.
+Editor de frameworks e mapas mentais para planejamento de um aplicativo de **missões físicas e serviços locais**.
 
-## Abrir
+## Visualizar
 
-Abra `index.html` no navegador. Após habilitar GitHub Pages, o editor também estará disponível pelo endereço público do repositório.
-
-## Framework incluído
-
-O projeto **Nossa Missão** já vem carregado no editor. Uma cópia de segurança com o texto revisado está em `nossa-missao-corrigida.json`.
-
-## Funcionalidades
-
-- Criação, edição, movimentação e conexão de blocos;
-- Ramificações e conexões curvas;
-- Busca, duplicação, foco e zoom;
-- Desfazer e refazer;
-- Temas claro e escuro;
-- Salvamento automático local;
-- Exportação e importação de frameworks em JSON e exportação visual.
-
-## Atenção ao salvamento
-
-O editor salva alterações no `localStorage` do navegador. Isso significa que **não há sincronização em nuvem**: usar outro navegador, outro dispositivo ou limpar os dados locais não restaura alterações recentes. Exporte periodicamente o JSON para preservar seu trabalho.
-
-## Publicação com GitHub Pages
-
-Vá em **Settings → Pages → Build and deployment → Deploy from a branch**, selecione **main** e **/(root)** e salve. O endereço deverá seguir o formato:
+Após a implantação automática do GitHub Pages:
 
 https://enzoco2612-png.github.io/forma-studio/
 
-## Próximas atualizações
+## Conteúdo inicial
 
-Altere os arquivos diretamente neste repositório; o GitHub Pages pode publicar novas versões automaticamente depois de ativado.
+A nova estrutura “Nossa Missão” organiza o produto nos grupos:
+- Quem contrata
+- Quem executa
+- Missões mais fortes
+- Dores e gatilhos
+- Tráfego
+- Funis e conversão
+- Monetização e retenção
+- Posicionamento da marca
+
+## Recursos
+
+Blocos editáveis, ramificações, conexões coloridas, cores por grupo, legenda, busca, zoom, movimentação, organização automática, duplicação, desfazer/refazer, tema claro/escuro, importação JSON e exportação JSON/SVG/PNG.
+
+## Arquivos
+
+- `index.html`: aplicativo web;
+- `nossa-missao-corrigida.json`: estrutura estratégica atual;
+- `backups/nossa-missao-original.json`: cópia de segurança do framework anterior.
+
+## Seus dados
+
+O mapa inicial está incorporado ao `index.html`. As edições que você faz dentro do editor continuam gravadas **somente no navegador** (localStorage); elas **não** são enviadas automaticamente ao GitHub. Para transferir ou restaurar suas alterações, use **Exportar JSON** / **Importar JSON**. O novo modelo utiliza um espaço de salvamento diferente do anterior, preservando os dados antigos no navegador caso eles ainda existam.
+
+## Como atualizar
+
+Altere o código deste mesmo repositório. O GitHub Pages republicará a nova versão após o deploy ser concluído.
+
+## Observações de segurança do marketplace
+
+Tarefas físicas e pagamentos requerem validação de prestadores, políticas de segurança, resolução de disputas, controles de privacidade e definições claras de serviços permitidos antes de colocar o marketplace em produção.
