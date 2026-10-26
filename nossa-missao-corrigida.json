@@ -1,0 +1,868 @@
+{
+  "title": "Nossa Missão",
+  "nodes": [
+    {
+      "id": "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
+      "x": -375,
+      "y": 207,
+      "w": 210,
+      "text": "Nossa missão",
+      "color": 2
+    },
+    {
+      "id": "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "x": 327,
+      "y": -305,
+      "w": 210,
+      "text": "Público",
+      "color": 0
+    },
+    {
+      "id": "90a55839-4c02-45f5-827b-7242453d69c1",
+      "x": 131,
+      "y": 218,
+      "w": 210,
+      "text": "Tráfego",
+      "color": 0
+    },
+    {
+      "id": "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "x": 297,
+      "y": 719,
+      "w": 210,
+      "text": "Funis",
+      "color": 0
+    },
+    {
+      "id": "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "x": 774,
+      "y": -287,
+      "w": 210,
+      "text": "Emprego",
+      "color": 0
+    },
+    {
+      "id": "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "x": 774,
+      "y": -220,
+      "w": 210,
+      "text": "Lazer",
+      "color": 0
+    },
+    {
+      "id": "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "x": 774,
+      "y": -148,
+      "w": 210,
+      "text": "Dívida",
+      "color": 0
+    },
+    {
+      "id": "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "x": 777,
+      "y": -81,
+      "w": 210,
+      "text": "Trabalhador de app",
+      "color": 0
+    },
+    {
+      "id": "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "x": 779,
+      "y": -7,
+      "w": 210,
+      "text": "Jovem",
+      "color": 0
+    },
+    {
+      "id": "44a81d88-0814-4fc0-9970-4d78deb3fd1f",
+      "x": 402,
+      "y": 35,
+      "w": 210,
+      "text": "Meta Ads",
+      "color": 0
+    },
+    {
+      "id": "fc2d4500-661e-410c-a816-f78cb55837cc",
+      "x": 404,
+      "y": 110,
+      "w": 210,
+      "text": "Influencer",
+      "color": 0
+    },
+    {
+      "id": "84594d91-4add-4cdd-95ff-56dd75c0b663",
+      "x": 405,
+      "y": 182,
+      "w": 210,
+      "text": "Orgânico",
+      "color": 0
+    },
+    {
+      "id": "28f5224f-746e-4b24-a415-6a39f5ce9359",
+      "x": 405,
+      "y": 260,
+      "w": 210,
+      "text": "TikTok Ads",
+      "color": 0
+    },
+    {
+      "id": "158155cf-688a-4843-9be6-645f34bdad4a",
+      "x": 408,
+      "y": 330,
+      "w": 210,
+      "text": "Google Ads",
+      "color": 0
+    },
+    {
+      "id": "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d",
+      "x": 599,
+      "y": 508,
+      "w": 210,
+      "text": "Quiz",
+      "color": 0
+    },
+    {
+      "id": "059ec612-017a-4275-a2a5-8087c4a686fd",
+      "x": 605,
+      "y": 572,
+      "w": 210,
+      "text": "VSL",
+      "color": 0
+    },
+    {
+      "id": "29239fdd-6927-4f3b-9874-9b0701f4a779",
+      "x": 599,
+      "y": 642,
+      "w": 210,
+      "text": "TSL",
+      "color": 0
+    },
+    {
+      "id": "5324dde3-76dd-405f-9ea3-df2ccf4419a5",
+      "x": 594,
+      "y": 717,
+      "w": 210,
+      "text": "Mini VSL",
+      "color": 0
+    },
+    {
+      "id": "e1df8a7f-d5f2-43b1-8908-6983bbe033d7",
+      "x": 595,
+      "y": 787,
+      "w": 210,
+      "text": "LP",
+      "color": 0
+    },
+    {
+      "id": "33807a4e-1dfe-4e34-b867-3249605e81fe",
+      "x": 592,
+      "y": 862,
+      "w": 210,
+      "text": "VSL com delay de CTA",
+      "color": 0
+    },
+    {
+      "id": "6cacc30b-7638-4539-98d3-da0b720ef781",
+      "x": 1038,
+      "y": -986,
+      "w": 210,
+      "text": "Pessoa que acabou de ser demitida do emprego",
+      "color": 0
+    },
+    {
+      "id": "e70c4e5e-b6ed-4938-9a6c-478b634b0e8f",
+      "x": 1038,
+      "y": -892,
+      "w": 210,
+      "text": "Quer o primeiro emprego",
+      "color": 0
+    },
+    {
+      "id": "835de865-b908-46a4-aa28-2113823e72bb",
+      "x": 1037,
+      "y": -820,
+      "w": 210,
+      "text": "Precisa de dois empregos",
+      "color": 0
+    },
+    {
+      "id": "5a051e64-39e8-42da-b0b4-c7ce81884d99",
+      "x": 1038,
+      "y": -751,
+      "w": 210,
+      "text": "Insatisfação com o emprego atual",
+      "color": 0
+    },
+    {
+      "id": "d3c663ad-ac03-434b-b814-50b545cbec65",
+      "x": 1041,
+      "y": -659,
+      "w": 210,
+      "text": "Medo de demissão",
+      "color": 0
+    },
+    {
+      "id": "0b548cf4-80ba-4780-bd39-17e3faa84eec",
+      "x": 1039,
+      "y": -594,
+      "w": 210,
+      "text": "Sair do regime CLT",
+      "color": 0
+    },
+    {
+      "id": "1640ef67-c70b-465e-a4e7-bc04b4ee7018",
+      "x": 1036,
+      "y": -527,
+      "w": 210,
+      "text": "Sem experiência na área de trabalho",
+      "color": 0
+    },
+    {
+      "id": "7e40c046-4337-4e17-aa6a-4cb972b0b808",
+      "x": 1412,
+      "y": -977,
+      "w": 210,
+      "text": "Viajar mais",
+      "color": 0
+    },
+    {
+      "id": "6bf04910-22a8-435e-9250-02354461ae99",
+      "x": 1410,
+      "y": -901,
+      "w": 210,
+      "text": "Fim de semana livre",
+      "color": 0
+    },
+    {
+      "id": "64f6ea4a-5985-4398-a086-4496dca6847e",
+      "x": 1410,
+      "y": -827,
+      "w": 210,
+      "text": "Lazer para os filhos",
+      "color": 0
+    },
+    {
+      "id": "73b15771-dfd0-4545-b743-d37a191aaafe",
+      "x": 1413,
+      "y": -757,
+      "w": 210,
+      "text": "Pequenos luxos (ex.: celular novo)",
+      "color": 0
+    },
+    {
+      "id": "6f054733-d012-42f8-8b64-7a6f93976a5e",
+      "x": 1410,
+      "y": -662,
+      "w": 210,
+      "text": "Curtir sem culpa",
+      "color": 0
+    },
+    {
+      "id": "1322653e-1f87-42a2-bf12-215a2e6d08f8",
+      "x": 1784,
+      "y": -970,
+      "w": 210,
+      "text": "Nome sujo",
+      "color": 0
+    },
+    {
+      "id": "07126c8f-2d82-4175-87a3-9ea9bc453e4b",
+      "x": 1785,
+      "y": -893,
+      "w": 210,
+      "text": "Cartão de crédito estourado",
+      "color": 0
+    },
+    {
+      "id": "a4458998-b21a-45b0-8f2c-c643a865251c",
+      "x": 1788,
+      "y": -817,
+      "w": 210,
+      "text": "Conta atrasada",
+      "color": 0
+    },
+    {
+      "id": "98ba04bd-2100-4ca2-8d87-af1789910ae0",
+      "x": 1783,
+      "y": -742,
+      "w": 210,
+      "text": "Salário comprometido",
+      "color": 0
+    },
+    {
+      "id": "13bd7295-341c-47e1-9f52-a03b8345b360",
+      "x": 1782,
+      "y": -665,
+      "w": 210,
+      "text": "Empréstimo",
+      "color": 0
+    },
+    {
+      "id": "f9634b09-f0e2-4744-a64b-38cedea1416c",
+      "x": 1788,
+      "y": -588,
+      "w": 210,
+      "text": "A dívida consumiu o dinheiro antes do fim do mês",
+      "color": 0
+    },
+    {
+      "id": "c41c107b-9113-40d3-ba90-2168336c747e",
+      "x": 1789,
+      "y": -483,
+      "w": 210,
+      "text": "Dependência de empréstimos",
+      "color": 0
+    },
+    {
+      "id": "48e4a440-ce9d-4a3b-84df-f7c32395d498",
+      "x": 1789,
+      "y": -386,
+      "w": 210,
+      "text": "Financiamentos em geral",
+      "color": 0
+    },
+    {
+      "id": "a741e8b7-f887-4ef1-947c-917a50550329",
+      "x": 1787,
+      "y": -314,
+      "w": 210,
+      "text": "Renegociação de dívidas",
+      "color": 0
+    },
+    {
+      "id": "8d87ee3b-5f4f-4f09-9c03-acc60726e7f3",
+      "x": 2136,
+      "y": -974,
+      "w": 210,
+      "text": "Cansaço físico",
+      "color": 0
+    },
+    {
+      "id": "723b6446-1227-4601-9a37-8b79a2113cb6",
+      "x": 2136,
+      "y": -882,
+      "w": 210,
+      "text": "Cansaço mental",
+      "color": 0
+    },
+    {
+      "id": "716844f6-67a8-4c56-a2a4-6aeea4878e6f",
+      "x": 2140,
+      "y": -805,
+      "w": 210,
+      "text": "Desgaste do veículo",
+      "color": 0
+    },
+    {
+      "id": "58a4136d-64e0-4a9e-8f0c-9d5e03c7739d",
+      "x": 2143,
+      "y": -735,
+      "w": 210,
+      "text": "Dependência dos aplicativos",
+      "color": 0
+    },
+    {
+      "id": "035cd1e9-45ab-45ed-b2b6-a41b3e19356c",
+      "x": 2143,
+      "y": -659,
+      "w": 210,
+      "text": "Corridas baratas",
+      "color": 0
+    },
+    {
+      "id": "f95f7a85-534c-4ba9-9d4b-93bd2816ee1d",
+      "x": 2148,
+      "y": -581,
+      "w": 210,
+      "text": "Combustível caro",
+      "color": 0
+    },
+    {
+      "id": "c371ed6c-ba2d-4b98-82dc-dd699790b812",
+      "x": 2147,
+      "y": -508,
+      "w": 210,
+      "text": "Tempo parado esperando pedidos",
+      "color": 0
+    },
+    {
+      "id": "1961e1e4-1020-41d1-92a9-fb9001146e2b",
+      "x": 2147,
+      "y": -414,
+      "w": 210,
+      "text": "Bloqueio de conta",
+      "color": 0
+    },
+    {
+      "id": "4aebe013-9c19-47e5-befc-1eb5f379ccaf",
+      "x": 2148,
+      "y": -338,
+      "w": 210,
+      "text": "Aluguel de veículo",
+      "color": 0
+    },
+    {
+      "id": "752f42f7-1e25-446c-a391-e29ab4f7bbe1",
+      "x": 2482,
+      "y": -978,
+      "w": 210,
+      "text": "Primeiro emprego",
+      "color": 0
+    },
+    {
+      "id": "60d35040-997a-4830-987e-cdf0aca311be",
+      "x": 2482,
+      "y": -901,
+      "w": 210,
+      "text": "Independência financeira",
+      "color": 0
+    },
+    {
+      "id": "c145c015-f6e2-41b7-a46c-0658dc83e48b",
+      "x": 2487,
+      "y": -824,
+      "w": 210,
+      "text": "Ainda não entrou na faculdade",
+      "color": 0
+    },
+    {
+      "id": "76f71055-817e-4f46-86b9-959802115b09",
+      "x": 2489,
+      "y": -750,
+      "w": 210,
+      "text": "Ainda é jovem aprendiz",
+      "color": 0
+    },
+    {
+      "id": "17c77cd9-b32b-41e9-90e7-80133e0dd772",
+      "x": 2487,
+      "y": -675,
+      "w": 210,
+      "text": "Estudante (em geral)",
+      "color": 0
+    },
+    {
+      "id": "c30596af-049f-4673-b53a-4b93abdc2108",
+      "x": 2485,
+      "y": -599,
+      "w": 210,
+      "text": "Saindo da casa dos pais (ou querendo sair)",
+      "color": 0
+    },
+    {
+      "id": "ef8091af-109e-4148-815e-14c8d4cca833",
+      "x": 2483,
+      "y": -494,
+      "w": 210,
+      "text": "Comprar bens materiais desejados por jovens",
+      "color": 0
+    },
+    {
+      "id": "3b0b25c1-4b52-41c9-8cc9-33bf740c4b24",
+      "x": 2484,
+      "y": -399,
+      "w": 210,
+      "text": "Ajudar os pais",
+      "color": 0
+    },
+    {
+      "id": "d2c8ee71-0efb-44cb-bfef-aea9931c8daa",
+      "x": 2483,
+      "y": -323,
+      "w": 210,
+      "text": "Público do marketing digital",
+      "color": 0
+    },
+    {
+      "id": "527063e1-04c5-46db-bf83-fc7fa46a8d13",
+      "x": 982,
+      "y": 216,
+      "w": 210,
+      "text": "Usamos dores latentes para segmentar o público e melhorar o CPA.",
+      "color": 0
+    },
+    {
+      "id": "bbf409c0-c424-4fc6-b683-95e2c7774acf",
+      "x": 980,
+      "y": 337,
+      "w": 210,
+      "text": "Podemos usar tanto UGC quanto conteúdos humanizados.",
+      "color": 0
+    },
+    {
+      "id": "16a1dc04-c63c-4d7f-bbe0-24ae2b32fcc4",
+      "x": 977,
+      "y": 452,
+      "w": 210,
+      "text": "Usamos informações de blogs nacionais como prova social.",
+      "color": 0
+    },
+    {
+      "id": "d8a13a68-882e-466a-8a27-88b5304c2feb",
+      "x": 978,
+      "y": 548,
+      "w": 210,
+      "text": "Apenas para aumentar o CTR da página.",
+      "color": 0
+    },
+    {
+      "id": "f59659e5-2373-4925-ba09-45c760014c69",
+      "x": 977,
+      "y": 643,
+      "w": 210,
+      "text": "Não é muito recomendado, mas dá para testar.",
+      "color": 0
+    },
+    {
+      "id": "3269f6ae-a3ae-46fd-9484-d1c78aa76901",
+      "x": 976,
+      "y": 732,
+      "w": 210,
+      "text": "Para o público mais propenso a usar o aplicativo como fonte de renda principal.",
+      "color": 0
+    },
+    {
+      "id": "d2094295-8465-4190-b51d-3000cced1fe5",
+      "x": 595,
+      "y": 932,
+      "w": 210,
+      "text": "Direto.",
+      "color": 0
+    },
+    {
+      "id": "1d4aa213-3bce-4273-a5c1-7f2a0f9e400d",
+      "x": 976,
+      "y": 842,
+      "w": 210,
+      "text": "Dos anúncios ou de qualquer outra fonte, diretamente para o aplicativo.",
+      "color": 0
+    },
+    {
+      "id": "e0dac9ac-f338-4800-a677-f09e227e8691",
+      "x": 1720,
+      "y": 130,
+      "w": 210,
+      "text": "Métricas mais baratas e experiência avançada da equipe.",
+      "color": 0
+    },
+    {
+      "id": "bd3ca1a9-30e7-4a5f-9d5b-da25c3083b43",
+      "x": 1723,
+      "y": 234,
+      "w": 210,
+      "text": "Podemos testar primeiro com microinfluenciadores, preferencialmente com público de menor renda.",
+      "color": 0
+    },
+    {
+      "id": "4216d3ba-1406-4b6a-9906-8da585c262d6",
+      "x": 1723,
+      "y": 383,
+      "w": 210,
+      "text": "Teste de viralização (como o da Neura).",
+      "color": 0
+    },
+    {
+      "id": "d2e7dcdf-230e-4d3d-92d1-fd1d21549e14",
+      "x": 1726,
+      "y": 469,
+      "w": 210,
+      "text": "Maior rede de vídeos curtos; podemos buscar viralização mesmo com anúncios.",
+      "color": 0
+    },
+    {
+      "id": "7d9a5d7b-87bc-419f-af8e-0496aa3da3f8",
+      "x": 1725,
+      "y": 601,
+      "w": 210,
+      "text": "Maior rede de pesquisa do mundo. Nada a declarar.",
+      "color": 0
+    }
+  ],
+  "edges": [
+    [
+      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2"
+    ],
+    [
+      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
+      "90a55839-4c02-45f5-827b-7242453d69c1"
+    ],
+    [
+      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2"
+    ],
+    [
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "f68dbb4e-af48-4ba9-9332-b666339772f8"
+    ],
+    [
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a"
+    ],
+    [
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "ff119c39-4de0-4986-974e-ede1e121ea81"
+    ],
+    [
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89"
+    ],
+    [
+      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87"
+    ],
+    [
+      "90a55839-4c02-45f5-827b-7242453d69c1",
+      "44a81d88-0814-4fc0-9970-4d78deb3fd1f"
+    ],
+    [
+      "90a55839-4c02-45f5-827b-7242453d69c1",
+      "fc2d4500-661e-410c-a816-f78cb55837cc"
+    ],
+    [
+      "90a55839-4c02-45f5-827b-7242453d69c1",
+      "84594d91-4add-4cdd-95ff-56dd75c0b663"
+    ],
+    [
+      "90a55839-4c02-45f5-827b-7242453d69c1",
+      "28f5224f-746e-4b24-a415-6a39f5ce9359"
+    ],
+    [
+      "90a55839-4c02-45f5-827b-7242453d69c1",
+      "158155cf-688a-4843-9be6-645f34bdad4a"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "059ec612-017a-4275-a2a5-8087c4a686fd"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "29239fdd-6927-4f3b-9874-9b0701f4a779"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "5324dde3-76dd-405f-9ea3-df2ccf4419a5"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "e1df8a7f-d5f2-43b1-8908-6983bbe033d7"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "33807a4e-1dfe-4e34-b867-3249605e81fe"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "6cacc30b-7638-4539-98d3-da0b720ef781"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "e70c4e5e-b6ed-4938-9a6c-478b634b0e8f"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "835de865-b908-46a4-aa28-2113823e72bb"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "5a051e64-39e8-42da-b0b4-c7ce81884d99"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "d3c663ad-ac03-434b-b814-50b545cbec65"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "0b548cf4-80ba-4780-bd39-17e3faa84eec"
+    ],
+    [
+      "f68dbb4e-af48-4ba9-9332-b666339772f8",
+      "1640ef67-c70b-465e-a4e7-bc04b4ee7018"
+    ],
+    [
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "7e40c046-4337-4e17-aa6a-4cb972b0b808"
+    ],
+    [
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "6bf04910-22a8-435e-9250-02354461ae99"
+    ],
+    [
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "64f6ea4a-5985-4398-a086-4496dca6847e"
+    ],
+    [
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "73b15771-dfd0-4545-b743-d37a191aaafe"
+    ],
+    [
+      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
+      "6f054733-d012-42f8-8b64-7a6f93976a5e"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "1322653e-1f87-42a2-bf12-215a2e6d08f8"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "07126c8f-2d82-4175-87a3-9ea9bc453e4b"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "a4458998-b21a-45b0-8f2c-c643a865251c"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "98ba04bd-2100-4ca2-8d87-af1789910ae0"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "13bd7295-341c-47e1-9f52-a03b8345b360"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "f9634b09-f0e2-4744-a64b-38cedea1416c"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "c41c107b-9113-40d3-ba90-2168336c747e"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "48e4a440-ce9d-4a3b-84df-f7c32395d498"
+    ],
+    [
+      "ff119c39-4de0-4986-974e-ede1e121ea81",
+      "a741e8b7-f887-4ef1-947c-917a50550329"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "8d87ee3b-5f4f-4f09-9c03-acc60726e7f3"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "723b6446-1227-4601-9a37-8b79a2113cb6"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "716844f6-67a8-4c56-a2a4-6aeea4878e6f"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "58a4136d-64e0-4a9e-8f0c-9d5e03c7739d"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "035cd1e9-45ab-45ed-b2b6-a41b3e19356c"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "f95f7a85-534c-4ba9-9d4b-93bd2816ee1d"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "c371ed6c-ba2d-4b98-82dc-dd699790b812"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "1961e1e4-1020-41d1-92a9-fb9001146e2b"
+    ],
+    [
+      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
+      "4aebe013-9c19-47e5-befc-1eb5f379ccaf"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "752f42f7-1e25-446c-a391-e29ab4f7bbe1"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "60d35040-997a-4830-987e-cdf0aca311be"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "c145c015-f6e2-41b7-a46c-0658dc83e48b"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "76f71055-817e-4f46-86b9-959802115b09"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "17c77cd9-b32b-41e9-90e7-80133e0dd772"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "c30596af-049f-4673-b53a-4b93abdc2108"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "ef8091af-109e-4148-815e-14c8d4cca833"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "3b0b25c1-4b52-41c9-8cc9-33bf740c4b24"
+    ],
+    [
+      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
+      "d2c8ee71-0efb-44cb-bfef-aea9931c8daa"
+    ],
+    [
+      "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d",
+      "527063e1-04c5-46db-bf83-fc7fa46a8d13"
+    ],
+    [
+      "059ec612-017a-4275-a2a5-8087c4a686fd",
+      "bbf409c0-c424-4fc6-b683-95e2c7774acf"
+    ],
+    [
+      "29239fdd-6927-4f3b-9874-9b0701f4a779",
+      "16a1dc04-c63c-4d7f-bbe0-24ae2b32fcc4"
+    ],
+    [
+      "5324dde3-76dd-405f-9ea3-df2ccf4419a5",
+      "d8a13a68-882e-466a-8a27-88b5304c2feb"
+    ],
+    [
+      "e1df8a7f-d5f2-43b1-8908-6983bbe033d7",
+      "f59659e5-2373-4925-ba09-45c760014c69"
+    ],
+    [
+      "33807a4e-1dfe-4e34-b867-3249605e81fe",
+      "3269f6ae-a3ae-46fd-9484-d1c78aa76901"
+    ],
+    [
+      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
+      "d2094295-8465-4190-b51d-3000cced1fe5"
+    ],
+    [
+      "d2094295-8465-4190-b51d-3000cced1fe5",
+      "1d4aa213-3bce-4273-a5c1-7f2a0f9e400d"
+    ],
+    [
+      "44a81d88-0814-4fc0-9970-4d78deb3fd1f",
+      "e0dac9ac-f338-4800-a677-f09e227e8691"
+    ],
+    [
+      "fc2d4500-661e-410c-a816-f78cb55837cc",
+      "bd3ca1a9-30e7-4a5f-9d5b-da25c3083b43"
+    ],
+    [
+      "84594d91-4add-4cdd-95ff-56dd75c0b663",
+      "4216d3ba-1406-4b6a-9906-8da585c262d6"
+    ],
+    [
+      "28f5224f-746e-4b24-a415-6a39f5ce9359",
+      "d2e7dcdf-230e-4d3d-92d1-fd1d21549e14"
+    ],
+    [
+      "158155cf-688a-4843-9be6-645f34bdad4a",
+      "7d9a5d7b-87bc-419f-af8e-0496aa3da3f8"
+    ]
+  ],
+  "root": "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098"
+}
