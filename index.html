@@ -26,6 +26,9 @@ body.light .pro-toolbar input{background:white;color:#142238;border-color:#d5dee
 .editor-area{display:flex;flex:1;min-width:0;min-height:0;flex-direction:column;overflow:hidden}.editor-area>.main{flex:1;min-height:0;width:100%}.legend-panel{margin-top:6px;padding:14px 12px;border:1px solid rgba(255,255,255,.08);background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.02));border-radius:16px}.legend-item{display:flex;align-items:center;gap:10px;padding:8px 4px;color:#cbd4e6;font-size:12px}.legend-dot{width:11px;height:11px;border-radius:999px;box-shadow:0 0 0 4px rgba(255,255,255,.03)}@media(max-width:1180px){.inspector{display:none}.sidebar{width:255px}}@media(max-width:760px){.pro-toolbar{padding:8px;gap:6px}.pro-toolbar .btn{font-size:11px;padding:8px 10px}.pro-toolbar input{min-width:120px}.sidebar{display:none}}
 
 /* Forma Studio Strategy Hub v4 */
+.panel-return{color:#bdcfff;border-color:#7196ce40;background:#6789c91a}
+.panel-return:hover{background:#759de72b}
+
 .node-status{display:inline-block;margin-top:7px;font-size:10px;font-weight:700;border-radius:6px;padding:3px 6px;background:#ffffff12;letter-spacing:.1px}
 .node.root .node-text{font-size:17px}
 
@@ -106,12 +109,12 @@ body.light .strategy-hub{background:#f3f6fc}body.light .hub-card,body.light .hub
 </head><body>
 <div id="app"><header><div class="brand"><div class="brand-icon">✳</div><div class="brand-name">forma<span>.</span></div></div><span class="separator"></span><div><input id="docTitle" class="doc-title" value="Painel estratégico" aria-label="Nome do framework"><div class="doc-state" id="saveState">Salvo automaticamente</div></div><div class="head-actions"><button class="btn" id="importBtn" title="Importar JSON"><svg class="ico" viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M5 17v4h14v-4"/></svg><span class="label">Importar</span></button><button class="btn" id="exportBtn"><svg class="ico" viewBox="0 0 24 24"><path d="M12 16V3m-4 9 4 4 4-4M5 17v4h14v-4"/></svg><span class="label">Exportar</span></button><button class="btn primary" id="newBtn"><svg class="ico" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span class="label">Novo mapa</span></button></div></header>
 <div class="workspace"><aside class="sidebar"><div><div class="section-label">ESTRATÉGIA 360</div><button class="nav-button active" id="hubNav" type="button">✦ &nbsp; Visão estratégica</button><button class="nav-button active" id="mapNav"><svg class="ico" viewBox="0 0 24 24"><rect x="2" y="8" width="7" height="8" rx="2"/><rect x="15" y="3" width="7" height="6" rx="2"/><rect x="15" y="15" width="7" height="6" rx="2"/><path d="M9 12h3V6h3m-3 6v6h3"/></svg>Mapa visual interativo</button><button class="nav-button" id="organizeBtn"><svg class="ico" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>Organizar mapa</button><button class="nav-button" id="fitBtn"><svg class="ico" viewBox="0 0 24 24"><path d="M8 3H3v5m18 0V3h-5M3 16v5h5m8 0h5v-5"/></svg>Enquadrar mapa</button></div><div><div class="section-label">Ferramentas</div><button class="nav-button" id="sidebarAdd"><svg class="ico" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>Novo bloco</button><button class="nav-button" id="sidebarLink"><svg class="ico" viewBox="0 0 24 24"><circle cx="5" cy="12" r="3"/><circle cx="19" cy="12" r="3"/><path d="M8 12h8"/></svg>Conectar ideias</button><button class="nav-button" id="undoBtn"><svg class="ico" viewBox="0 0 24 24"><path d="M9 14 4 9l5-5M4 9h10a6 6 0 0 1 0 12h-2"/></svg>Desfazer</button></div><div class="sidebar-card"><h4>Seu app, agora com estrutura de verdade.</h4><p>Estruture públicos, missões, canais, funis e monetização do seu app de missões físicas em um único painel estratégico.</p><button class="btn" id="exampleBtn">Restaurar estratégia 360</button></div><div class="legend-panel"><div class="section-label" style="margin-bottom:8px">Explorar áreas</div><div id="legendItems"></div></div><div class="sidebar-bottom">FORMA STUDIO · v4.0<br>Estrutura estratégica com foco em app de missões físicas.</div></aside>
-<div class="editor-area hub-mode" id="editorArea"><div class="pro-toolbar"><input id="searchNodes" placeholder="Buscar no mapa… (Ctrl+F)" aria-label="Buscar blocos"><button class="btn" id="duplicateBtn" title="Duplicar bloco selecionado">Duplicar</button><button class="btn" id="redoBtn" title="Refazer">Refazer</button><button class="btn" id="themeBtn" title="Alternar aparência">Aparência</button><button class="btn" id="focusBtn" title="Focar no bloco">Focar no bloco</button><span id="searchInfo"></span></div><section id="strategyHub" class="strategy-hub" aria-label="Estratégia do aplicativo">
+<div class="editor-area hub-mode" id="editorArea"><div class="pro-toolbar"><button class="btn panel-return" id="switchView" type="button" title="Voltar à visão estratégica">✦ Visão 360</button><input id="searchNodes" placeholder="Buscar no mapa… (Ctrl+F)" aria-label="Buscar blocos"><button class="btn" id="duplicateBtn" title="Duplicar bloco selecionado">Duplicar</button><button class="btn" id="redoBtn" title="Refazer">Refazer</button><button class="btn" id="themeBtn" title="Alternar aparência">Aparência</button><button class="btn" id="focusBtn" title="Focar no bloco">Focar no bloco</button><span id="searchInfo"></span></div><section id="strategyHub" class="strategy-hub" aria-label="Estratégia do aplicativo">
 <div class="hub-hero">
   <div class="hero-copy"><div class="hero-eyebrow"><span class="live-dot"></span> FORMA STUDIO 4.0 <span class="hero-sep">/</span> PLANEJAMENTO DE MARKETPLACE</div>
   <h1>Transforme tarefas reais<br>em um <em>negócio escalável.</em></h1>
   <p>Uma estrutura completa para conectar quem precisa resolver uma missão com quem quer executá-la — com segurança, recorrência e operação viável.</p>
-  <div class="hero-actions"><button type="button" class="hub-primary" id="openStrategyMap">Explorar mapa visual <span>↗</span></button><button type="button" class="hub-secondary" id="restoreOriginal">Recuperar mapa anterior</button></div></div>
+  <div class="hero-actions"><button type="button" class="hub-primary" id="openStrategyMap">Explorar mapa visual <span>↗</span></button><button type="button" class="hub-secondary" id="restoreOriginal">Recuperar mapa anterior</button><button type="button" class="hub-secondary" id="restoreBackup72">Original · 72 blocos</button></div></div>
   <div class="hero-orbit" aria-hidden="true"><div class="orbit-ring ring-one"></div><div class="orbit-ring ring-two"></div><div class="orbit-core">✳</div><div class="orbit-tag top-tag">CONTRATANTES</div><div class="orbit-tag bottom-tag">EXECUTORES</div></div>
 </div>
 <div class="hub-stats" id="hubStats"></div>
@@ -265,10 +268,15 @@ function renderHub(){
  if(!count){const empty=document.createElement('div');empty.className='hub-empty';empty.textContent='Nenhuma área encontrada. Tente outra busca ou etapa.';cards.appendChild(empty)}
 }
 $('hubNav').onclick=showHub;
+$('switchView').onclick=showHub;
 $('mapNav').onclick=function(){showMap()};
 $('openStrategyMap').onclick=function(){showMap()};
 $('hubSearch').addEventListener('input',renderHub);
 $('hubPhase').addEventListener('change',renderHub);
+$('restoreBackup72').onclick=function(){
+ if(!confirm('Abrir a cópia original de 72 blocos? O mapa aberto será substituído; exporte seu trabalho atual se quiser preservá-lo.'))return;
+ checkpoint();model=structuredClone(ORIGINAL_MODEL);selected=null;$('docTitle').value=model.title;render();changed();showMap();toast('Mapa original restaurado');
+};
 $('restoreOriginal').onclick=function(){
  if(!confirm('Recuperar seu mapa anterior? O mapa aberto será substituído. Use Exportar antes caso tenha alterações que deseja guardar.'))return;
  try{
