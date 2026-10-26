@@ -2,867 +2,819 @@
   "title": "Nossa Missão",
   "nodes": [
     {
-      "id": "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
-      "x": -375,
-      "y": 207,
-      "w": 210,
-      "text": "Nossa missão",
+      "id": "root-0",
+      "x": 0,
+      "y": 520,
+      "w": 270,
+      "text": "App de missões físicas",
+      "color": 0
+    },
+    {
+      "id": "branch-cliente",
+      "x": 350,
+      "y": 30,
+      "w": 250,
+      "text": "Quem contrata",
+      "color": 1
+    },
+    {
+      "id": "cliente-1",
+      "x": 740,
+      "y": -10,
+      "w": 240,
+      "text": "Profissionais sem tempo",
+      "color": 1
+    },
+    {
+      "id": "cliente-2",
+      "x": 740,
+      "y": 68,
+      "w": 240,
+      "text": "Mães e pais ocupados",
+      "color": 1
+    },
+    {
+      "id": "cliente-3",
+      "x": 740,
+      "y": 146,
+      "w": 240,
+      "text": "Idosos e familiares",
+      "color": 1
+    },
+    {
+      "id": "cliente-4",
+      "x": 740,
+      "y": 224,
+      "w": 240,
+      "text": "Pequenos negócios",
+      "color": 1
+    },
+    {
+      "id": "cliente-5",
+      "x": 740,
+      "y": 302,
+      "w": 240,
+      "text": "Condomínios e administradoras",
+      "color": 1
+    },
+    {
+      "id": "cliente-6",
+      "x": 740,
+      "y": 380,
+      "w": 240,
+      "text": "Pessoas com mobilidade reduzida",
+      "color": 1
+    },
+    {
+      "id": "cliente-7",
+      "x": 740,
+      "y": 458,
+      "w": 240,
+      "text": "Quem precisa resolver algo hoje",
+      "color": 1
+    },
+    {
+      "id": "branch-executor",
+      "x": 350,
+      "y": 250,
+      "w": 250,
+      "text": "Quem executa",
       "color": 2
     },
     {
-      "id": "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "x": 327,
-      "y": -305,
-      "w": 210,
-      "text": "Público",
-      "color": 0
+      "id": "executor-8",
+      "x": 740,
+      "y": 210,
+      "w": 240,
+      "text": "Freelancers",
+      "color": 2
     },
     {
-      "id": "90a55839-4c02-45f5-827b-7242453d69c1",
-      "x": 131,
-      "y": 218,
-      "w": 210,
-      "text": "Tráfego",
-      "color": 0
+      "id": "executor-9",
+      "x": 740,
+      "y": 288,
+      "w": 240,
+      "text": "Estudantes",
+      "color": 2
     },
     {
-      "id": "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "x": 297,
-      "y": 719,
-      "w": 210,
-      "text": "Funis",
-      "color": 0
+      "id": "executor-10",
+      "x": 740,
+      "y": 366,
+      "w": 240,
+      "text": "Trabalhadores de app",
+      "color": 2
     },
     {
-      "id": "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "x": 774,
-      "y": -287,
-      "w": 210,
-      "text": "Emprego",
-      "color": 0
+      "id": "executor-11",
+      "x": 740,
+      "y": 444,
+      "w": 240,
+      "text": "CLT buscando renda extra",
+      "color": 2
     },
     {
-      "id": "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "x": 774,
-      "y": -220,
-      "w": 210,
-      "text": "Lazer",
-      "color": 0
+      "id": "executor-12",
+      "x": 740,
+      "y": 522,
+      "w": 240,
+      "text": "Pessoas desempregadas",
+      "color": 2
     },
     {
-      "id": "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "x": 774,
-      "y": -148,
-      "w": 210,
-      "text": "Dívida",
-      "color": 0
+      "id": "executor-13",
+      "x": 740,
+      "y": 600,
+      "w": 240,
+      "text": "Prestadores locais especializados",
+      "color": 2
     },
     {
-      "id": "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "x": 777,
-      "y": -81,
-      "w": 210,
-      "text": "Trabalhador de app",
-      "color": 0
+      "id": "executor-14",
+      "x": 740,
+      "y": 678,
+      "w": 240,
+      "text": "Aposentados ativos",
+      "color": 2
     },
     {
-      "id": "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "x": 779,
-      "y": -7,
-      "w": 210,
-      "text": "Jovem",
-      "color": 0
+      "id": "branch-missoes",
+      "x": 350,
+      "y": 470,
+      "w": 250,
+      "text": "Missões mais fortes",
+      "color": 5
     },
     {
-      "id": "44a81d88-0814-4fc0-9970-4d78deb3fd1f",
-      "x": 402,
-      "y": 35,
-      "w": 210,
-      "text": "Meta Ads",
-      "color": 0
+      "id": "missoes-15",
+      "x": 740,
+      "y": 430,
+      "w": 240,
+      "text": "Ficar em filas",
+      "color": 5
     },
     {
-      "id": "fc2d4500-661e-410c-a816-f78cb55837cc",
-      "x": 404,
-      "y": 110,
-      "w": 210,
-      "text": "Influencer",
-      "color": 0
-    },
-    {
-      "id": "84594d91-4add-4cdd-95ff-56dd75c0b663",
-      "x": 405,
-      "y": 182,
-      "w": 210,
-      "text": "Orgânico",
-      "color": 0
-    },
-    {
-      "id": "28f5224f-746e-4b24-a415-6a39f5ce9359",
-      "x": 405,
-      "y": 260,
-      "w": 210,
-      "text": "TikTok Ads",
-      "color": 0
-    },
-    {
-      "id": "158155cf-688a-4843-9be6-645f34bdad4a",
-      "x": 408,
-      "y": 330,
-      "w": 210,
-      "text": "Google Ads",
-      "color": 0
-    },
-    {
-      "id": "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d",
-      "x": 599,
+      "id": "missoes-16",
+      "x": 740,
       "y": 508,
-      "w": 210,
-      "text": "Quiz",
+      "w": 240,
+      "text": "Compras rápidas",
+      "color": 5
+    },
+    {
+      "id": "missoes-17",
+      "x": 740,
+      "y": 586,
+      "w": 240,
+      "text": "Retirar encomendas",
+      "color": 5
+    },
+    {
+      "id": "missoes-18",
+      "x": 740,
+      "y": 664,
+      "w": 240,
+      "text": "Buscar ou levar documentos",
+      "color": 5
+    },
+    {
+      "id": "missoes-19",
+      "x": 740,
+      "y": 742,
+      "w": 240,
+      "text": "Pequenos serviços domésticos",
+      "color": 5
+    },
+    {
+      "id": "missoes-20",
+      "x": 740,
+      "y": 820,
+      "w": 240,
+      "text": "Suporte digital básico",
+      "color": 5
+    },
+    {
+      "id": "missoes-21",
+      "x": 740,
+      "y": 898,
+      "w": 240,
+      "text": "Missões com pet",
+      "color": 5
+    },
+    {
+      "id": "missoes-22",
+      "x": 740,
+      "y": 976,
+      "w": 240,
+      "text": "Acompanhamento pontual",
+      "color": 5
+    },
+    {
+      "id": "branch-gatilhos",
+      "x": 350,
+      "y": 725,
+      "w": 250,
+      "text": "Dores e gatilhos",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-23",
+      "x": 740,
+      "y": 685,
+      "w": 240,
+      "text": "Falta de tempo",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-24",
+      "x": 740,
+      "y": 763,
+      "w": 240,
+      "text": "Urgência",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-25",
+      "x": 740,
+      "y": 841,
+      "w": 240,
+      "text": "Conveniência",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-26",
+      "x": 740,
+      "y": 919,
+      "w": 240,
+      "text": "Resolver sem sair de casa",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-27",
+      "x": 740,
+      "y": 997,
+      "w": 240,
+      "text": "Não saber fazer",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-28",
+      "x": 740,
+      "y": 1075,
+      "w": 240,
+      "text": "Falta de alguém confiável",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-29",
+      "x": 740,
+      "y": 1153,
+      "w": 240,
+      "text": "Renda extra imediata",
+      "color": 6
+    },
+    {
+      "id": "gatilhos-30",
+      "x": 740,
+      "y": 1231,
+      "w": 240,
+      "text": "Flexibilidade para trabalhar",
+      "color": 6
+    },
+    {
+      "id": "branch-trafego",
+      "x": 350,
+      "y": 980,
+      "w": 250,
+      "text": "Tráfego",
+      "color": 7
+    },
+    {
+      "id": "trafego-31",
+      "x": 740,
+      "y": 940,
+      "w": 240,
+      "text": "Meta Ads",
+      "color": 7
+    },
+    {
+      "id": "trafego-32",
+      "x": 740,
+      "y": 1018,
+      "w": 240,
+      "text": "Google Ads",
+      "color": 7
+    },
+    {
+      "id": "trafego-33",
+      "x": 740,
+      "y": 1096,
+      "w": 240,
+      "text": "TikTok Ads",
+      "color": 7
+    },
+    {
+      "id": "trafego-34",
+      "x": 740,
+      "y": 1174,
+      "w": 240,
+      "text": "Influenciadores locais",
+      "color": 7
+    },
+    {
+      "id": "trafego-35",
+      "x": 740,
+      "y": 1252,
+      "w": 240,
+      "text": "Conteúdo orgânico",
+      "color": 7
+    },
+    {
+      "id": "trafego-36",
+      "x": 740,
+      "y": 1330,
+      "w": 240,
+      "text": "SEO e blog",
+      "color": 7
+    },
+    {
+      "id": "trafego-37",
+      "x": 740,
+      "y": 1408,
+      "w": 240,
+      "text": "Parcerias com comércios",
+      "color": 7
+    },
+    {
+      "id": "trafego-38",
+      "x": 740,
+      "y": 1486,
+      "w": 240,
+      "text": "Indicação e referral",
+      "color": 7
+    },
+    {
+      "id": "branch-funis",
+      "x": 350,
+      "y": 1235,
+      "w": 250,
+      "text": "Funis e conversão",
+      "color": 3
+    },
+    {
+      "id": "funis-39",
+      "x": 740,
+      "y": 1195,
+      "w": 240,
+      "text": "Direto ao app",
+      "color": 3
+    },
+    {
+      "id": "funis-40",
+      "x": 740,
+      "y": 1273,
+      "w": 240,
+      "text": "LP com prova social",
+      "color": 3
+    },
+    {
+      "id": "funis-41",
+      "x": 740,
+      "y": 1351,
+      "w": 240,
+      "text": "LP + WhatsApp",
+      "color": 3
+    },
+    {
+      "id": "funis-42",
+      "x": 740,
+      "y": 1429,
+      "w": 240,
+      "text": "Quiz de necessidade",
+      "color": 3
+    },
+    {
+      "id": "funis-43",
+      "x": 740,
+      "y": 1507,
+      "w": 240,
+      "text": "Cupom na 1ª missão",
+      "color": 3
+    },
+    {
+      "id": "funis-44",
+      "x": 740,
+      "y": 1585,
+      "w": 240,
+      "text": "Retargeting",
+      "color": 3
+    },
+    {
+      "id": "funis-45",
+      "x": 740,
+      "y": 1663,
+      "w": 240,
+      "text": "Onboarding guiado do executor",
+      "color": 3
+    },
+    {
+      "id": "funis-46",
+      "x": 740,
+      "y": 1741,
+      "w": 240,
+      "text": "CRM e notificações",
+      "color": 3
+    },
+    {
+      "id": "branch-monetizacao",
+      "x": 350,
+      "y": 1490,
+      "w": 250,
+      "text": "Monetização e retenção",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-47",
+      "x": 740,
+      "y": 1450,
+      "w": 240,
+      "text": "Taxa por missão",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-48",
+      "x": 740,
+      "y": 1528,
+      "w": 240,
+      "text": "Assinatura premium",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-49",
+      "x": 740,
+      "y": 1606,
+      "w": 240,
+      "text": "Taxa extra por urgência",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-50",
+      "x": 740,
+      "y": 1684,
+      "w": 240,
+      "text": "Créditos e saldo",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-51",
+      "x": 740,
+      "y": 1762,
+      "w": 240,
+      "text": "Avaliações e reputação",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-52",
+      "x": 740,
+      "y": 1840,
+      "w": 240,
+      "text": "Gamificação do executor",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-53",
+      "x": 740,
+      "y": 1918,
+      "w": 240,
+      "text": "Cashback e cupons",
+      "color": 4
+    },
+    {
+      "id": "monetizacao-54",
+      "x": 740,
+      "y": 1996,
+      "w": 240,
+      "text": "Missões recorrentes",
+      "color": 4
+    },
+    {
+      "id": "branch-marca",
+      "x": 350,
+      "y": 1745,
+      "w": 250,
+      "text": "Posicionamento da marca",
       "color": 0
     },
     {
-      "id": "059ec612-017a-4275-a2a5-8087c4a686fd",
-      "x": 605,
-      "y": 572,
-      "w": 210,
-      "text": "VSL",
+      "id": "marca-55",
+      "x": 740,
+      "y": 1705,
+      "w": 240,
+      "text": "Alguém confiável resolve por você",
       "color": 0
     },
     {
-      "id": "29239fdd-6927-4f3b-9874-9b0701f4a779",
-      "x": 599,
-      "y": 642,
-      "w": 210,
-      "text": "TSL",
+      "id": "marca-56",
+      "x": 740,
+      "y": 1783,
+      "w": 240,
+      "text": "Tempo livre vale dinheiro",
       "color": 0
     },
     {
-      "id": "5324dde3-76dd-405f-9ea3-df2ccf4419a5",
-      "x": 594,
-      "y": 717,
-      "w": 210,
-      "text": "Mini VSL",
+      "id": "marca-57",
+      "x": 740,
+      "y": 1861,
+      "w": 240,
+      "text": "Missões locais com segurança",
       "color": 0
     },
     {
-      "id": "e1df8a7f-d5f2-43b1-8908-6983bbe033d7",
-      "x": 595,
-      "y": 787,
-      "w": 210,
-      "text": "LP",
+      "id": "marca-58",
+      "x": 740,
+      "y": 1939,
+      "w": 240,
+      "text": "Renda extra real e flexível",
       "color": 0
     },
     {
-      "id": "33807a4e-1dfe-4e34-b867-3249605e81fe",
-      "x": 592,
-      "y": 862,
-      "w": 210,
-      "text": "VSL com delay de CTA",
-      "color": 0
-    },
-    {
-      "id": "6cacc30b-7638-4539-98d3-da0b720ef781",
-      "x": 1038,
-      "y": -986,
-      "w": 210,
-      "text": "Pessoa que acabou de ser demitida do emprego",
-      "color": 0
-    },
-    {
-      "id": "e70c4e5e-b6ed-4938-9a6c-478b634b0e8f",
-      "x": 1038,
-      "y": -892,
-      "w": 210,
-      "text": "Quer o primeiro emprego",
-      "color": 0
-    },
-    {
-      "id": "835de865-b908-46a4-aa28-2113823e72bb",
-      "x": 1037,
-      "y": -820,
-      "w": 210,
-      "text": "Precisa de dois empregos",
-      "color": 0
-    },
-    {
-      "id": "5a051e64-39e8-42da-b0b4-c7ce81884d99",
-      "x": 1038,
-      "y": -751,
-      "w": 210,
-      "text": "Insatisfação com o emprego atual",
-      "color": 0
-    },
-    {
-      "id": "d3c663ad-ac03-434b-b814-50b545cbec65",
-      "x": 1041,
-      "y": -659,
-      "w": 210,
-      "text": "Medo de demissão",
-      "color": 0
-    },
-    {
-      "id": "0b548cf4-80ba-4780-bd39-17e3faa84eec",
-      "x": 1039,
-      "y": -594,
-      "w": 210,
-      "text": "Sair do regime CLT",
-      "color": 0
-    },
-    {
-      "id": "1640ef67-c70b-465e-a4e7-bc04b4ee7018",
-      "x": 1036,
-      "y": -527,
-      "w": 210,
-      "text": "Sem experiência na área de trabalho",
-      "color": 0
-    },
-    {
-      "id": "7e40c046-4337-4e17-aa6a-4cb972b0b808",
-      "x": 1412,
-      "y": -977,
-      "w": 210,
-      "text": "Viajar mais",
-      "color": 0
-    },
-    {
-      "id": "6bf04910-22a8-435e-9250-02354461ae99",
-      "x": 1410,
-      "y": -901,
-      "w": 210,
-      "text": "Fim de semana livre",
-      "color": 0
-    },
-    {
-      "id": "64f6ea4a-5985-4398-a086-4496dca6847e",
-      "x": 1410,
-      "y": -827,
-      "w": 210,
-      "text": "Lazer para os filhos",
-      "color": 0
-    },
-    {
-      "id": "73b15771-dfd0-4545-b743-d37a191aaafe",
-      "x": 1413,
-      "y": -757,
-      "w": 210,
-      "text": "Pequenos luxos (ex.: celular novo)",
-      "color": 0
-    },
-    {
-      "id": "6f054733-d012-42f8-8b64-7a6f93976a5e",
-      "x": 1410,
-      "y": -662,
-      "w": 210,
-      "text": "Curtir sem culpa",
-      "color": 0
-    },
-    {
-      "id": "1322653e-1f87-42a2-bf12-215a2e6d08f8",
-      "x": 1784,
-      "y": -970,
-      "w": 210,
-      "text": "Nome sujo",
-      "color": 0
-    },
-    {
-      "id": "07126c8f-2d82-4175-87a3-9ea9bc453e4b",
-      "x": 1785,
-      "y": -893,
-      "w": 210,
-      "text": "Cartão de crédito estourado",
-      "color": 0
-    },
-    {
-      "id": "a4458998-b21a-45b0-8f2c-c643a865251c",
-      "x": 1788,
-      "y": -817,
-      "w": 210,
-      "text": "Conta atrasada",
-      "color": 0
-    },
-    {
-      "id": "98ba04bd-2100-4ca2-8d87-af1789910ae0",
-      "x": 1783,
-      "y": -742,
-      "w": 210,
-      "text": "Salário comprometido",
-      "color": 0
-    },
-    {
-      "id": "13bd7295-341c-47e1-9f52-a03b8345b360",
-      "x": 1782,
-      "y": -665,
-      "w": 210,
-      "text": "Empréstimo",
-      "color": 0
-    },
-    {
-      "id": "f9634b09-f0e2-4744-a64b-38cedea1416c",
-      "x": 1788,
-      "y": -588,
-      "w": 210,
-      "text": "A dívida consumiu o dinheiro antes do fim do mês",
-      "color": 0
-    },
-    {
-      "id": "c41c107b-9113-40d3-ba90-2168336c747e",
-      "x": 1789,
-      "y": -483,
-      "w": 210,
-      "text": "Dependência de empréstimos",
-      "color": 0
-    },
-    {
-      "id": "48e4a440-ce9d-4a3b-84df-f7c32395d498",
-      "x": 1789,
-      "y": -386,
-      "w": 210,
-      "text": "Financiamentos em geral",
-      "color": 0
-    },
-    {
-      "id": "a741e8b7-f887-4ef1-947c-917a50550329",
-      "x": 1787,
-      "y": -314,
-      "w": 210,
-      "text": "Renegociação de dívidas",
-      "color": 0
-    },
-    {
-      "id": "8d87ee3b-5f4f-4f09-9c03-acc60726e7f3",
-      "x": 2136,
-      "y": -974,
-      "w": 210,
-      "text": "Cansaço físico",
-      "color": 0
-    },
-    {
-      "id": "723b6446-1227-4601-9a37-8b79a2113cb6",
-      "x": 2136,
-      "y": -882,
-      "w": 210,
-      "text": "Cansaço mental",
-      "color": 0
-    },
-    {
-      "id": "716844f6-67a8-4c56-a2a4-6aeea4878e6f",
-      "x": 2140,
-      "y": -805,
-      "w": 210,
-      "text": "Desgaste do veículo",
-      "color": 0
-    },
-    {
-      "id": "58a4136d-64e0-4a9e-8f0c-9d5e03c7739d",
-      "x": 2143,
-      "y": -735,
-      "w": 210,
-      "text": "Dependência dos aplicativos",
-      "color": 0
-    },
-    {
-      "id": "035cd1e9-45ab-45ed-b2b6-a41b3e19356c",
-      "x": 2143,
-      "y": -659,
-      "w": 210,
-      "text": "Corridas baratas",
-      "color": 0
-    },
-    {
-      "id": "f95f7a85-534c-4ba9-9d4b-93bd2816ee1d",
-      "x": 2148,
-      "y": -581,
-      "w": 210,
-      "text": "Combustível caro",
-      "color": 0
-    },
-    {
-      "id": "c371ed6c-ba2d-4b98-82dc-dd699790b812",
-      "x": 2147,
-      "y": -508,
-      "w": 210,
-      "text": "Tempo parado esperando pedidos",
-      "color": 0
-    },
-    {
-      "id": "1961e1e4-1020-41d1-92a9-fb9001146e2b",
-      "x": 2147,
-      "y": -414,
-      "w": 210,
-      "text": "Bloqueio de conta",
-      "color": 0
-    },
-    {
-      "id": "4aebe013-9c19-47e5-befc-1eb5f379ccaf",
-      "x": 2148,
-      "y": -338,
-      "w": 210,
-      "text": "Aluguel de veículo",
-      "color": 0
-    },
-    {
-      "id": "752f42f7-1e25-446c-a391-e29ab4f7bbe1",
-      "x": 2482,
-      "y": -978,
-      "w": 210,
-      "text": "Primeiro emprego",
-      "color": 0
-    },
-    {
-      "id": "60d35040-997a-4830-987e-cdf0aca311be",
-      "x": 2482,
-      "y": -901,
-      "w": 210,
-      "text": "Independência financeira",
-      "color": 0
-    },
-    {
-      "id": "c145c015-f6e2-41b7-a46c-0658dc83e48b",
-      "x": 2487,
-      "y": -824,
-      "w": 210,
-      "text": "Ainda não entrou na faculdade",
-      "color": 0
-    },
-    {
-      "id": "76f71055-817e-4f46-86b9-959802115b09",
-      "x": 2489,
-      "y": -750,
-      "w": 210,
-      "text": "Ainda é jovem aprendiz",
-      "color": 0
-    },
-    {
-      "id": "17c77cd9-b32b-41e9-90e7-80133e0dd772",
-      "x": 2487,
-      "y": -675,
-      "w": 210,
-      "text": "Estudante (em geral)",
-      "color": 0
-    },
-    {
-      "id": "c30596af-049f-4673-b53a-4b93abdc2108",
-      "x": 2485,
-      "y": -599,
-      "w": 210,
-      "text": "Saindo da casa dos pais (ou querendo sair)",
-      "color": 0
-    },
-    {
-      "id": "ef8091af-109e-4148-815e-14c8d4cca833",
-      "x": 2483,
-      "y": -494,
-      "w": 210,
-      "text": "Comprar bens materiais desejados por jovens",
-      "color": 0
-    },
-    {
-      "id": "3b0b25c1-4b52-41c9-8cc9-33bf740c4b24",
-      "x": 2484,
-      "y": -399,
-      "w": 210,
-      "text": "Ajudar os pais",
-      "color": 0
-    },
-    {
-      "id": "d2c8ee71-0efb-44cb-bfef-aea9931c8daa",
-      "x": 2483,
-      "y": -323,
-      "w": 210,
-      "text": "Público do marketing digital",
-      "color": 0
-    },
-    {
-      "id": "527063e1-04c5-46db-bf83-fc7fa46a8d13",
-      "x": 982,
-      "y": 216,
-      "w": 210,
-      "text": "Usamos dores latentes para segmentar o público e melhorar o CPA.",
-      "color": 0
-    },
-    {
-      "id": "bbf409c0-c424-4fc6-b683-95e2c7774acf",
-      "x": 980,
-      "y": 337,
-      "w": 210,
-      "text": "Podemos usar tanto UGC quanto conteúdos humanizados.",
-      "color": 0
-    },
-    {
-      "id": "16a1dc04-c63c-4d7f-bbe0-24ae2b32fcc4",
-      "x": 977,
-      "y": 452,
-      "w": 210,
-      "text": "Usamos informações de blogs nacionais como prova social.",
-      "color": 0
-    },
-    {
-      "id": "d8a13a68-882e-466a-8a27-88b5304c2feb",
-      "x": 978,
-      "y": 548,
-      "w": 210,
-      "text": "Apenas para aumentar o CTR da página.",
-      "color": 0
-    },
-    {
-      "id": "f59659e5-2373-4925-ba09-45c760014c69",
-      "x": 977,
-      "y": 643,
-      "w": 210,
-      "text": "Não é muito recomendado, mas dá para testar.",
-      "color": 0
-    },
-    {
-      "id": "3269f6ae-a3ae-46fd-9484-d1c78aa76901",
-      "x": 976,
-      "y": 732,
-      "w": 210,
-      "text": "Para o público mais propenso a usar o aplicativo como fonte de renda principal.",
-      "color": 0
-    },
-    {
-      "id": "d2094295-8465-4190-b51d-3000cced1fe5",
-      "x": 595,
-      "y": 932,
-      "w": 210,
-      "text": "Direto.",
-      "color": 0
-    },
-    {
-      "id": "1d4aa213-3bce-4273-a5c1-7f2a0f9e400d",
-      "x": 976,
-      "y": 842,
-      "w": 210,
-      "text": "Dos anúncios ou de qualquer outra fonte, diretamente para o aplicativo.",
-      "color": 0
-    },
-    {
-      "id": "e0dac9ac-f338-4800-a677-f09e227e8691",
-      "x": 1720,
-      "y": 130,
-      "w": 210,
-      "text": "Métricas mais baratas e experiência avançada da equipe.",
-      "color": 0
-    },
-    {
-      "id": "bd3ca1a9-30e7-4a5f-9d5b-da25c3083b43",
-      "x": 1723,
-      "y": 234,
-      "w": 210,
-      "text": "Podemos testar primeiro com microinfluenciadores, preferencialmente com público de menor renda.",
-      "color": 0
-    },
-    {
-      "id": "4216d3ba-1406-4b6a-9906-8da585c262d6",
-      "x": 1723,
-      "y": 383,
-      "w": 210,
-      "text": "Teste de viralização (como o da Neura).",
-      "color": 0
-    },
-    {
-      "id": "d2e7dcdf-230e-4d3d-92d1-fd1d21549e14",
-      "x": 1726,
-      "y": 469,
-      "w": 210,
-      "text": "Maior rede de vídeos curtos; podemos buscar viralização mesmo com anúncios.",
-      "color": 0
-    },
-    {
-      "id": "7d9a5d7b-87bc-419f-af8e-0496aa3da3f8",
-      "x": 1725,
-      "y": 601,
-      "w": 210,
-      "text": "Maior rede de pesquisa do mundo. Nada a declarar.",
+      "id": "marca-59",
+      "x": 740,
+      "y": 2017,
+      "w": 240,
+      "text": "Rapidez, praticidade e confiança",
       "color": 0
     }
   ],
   "edges": [
     [
-      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2"
+      "root-0",
+      "branch-cliente"
     ],
     [
-      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
-      "90a55839-4c02-45f5-827b-7242453d69c1"
+      "branch-cliente",
+      "cliente-1"
     ],
     [
-      "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098",
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2"
+      "branch-cliente",
+      "cliente-2"
     ],
     [
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "f68dbb4e-af48-4ba9-9332-b666339772f8"
+      "branch-cliente",
+      "cliente-3"
     ],
     [
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a"
+      "branch-cliente",
+      "cliente-4"
     ],
     [
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "ff119c39-4de0-4986-974e-ede1e121ea81"
+      "branch-cliente",
+      "cliente-5"
     ],
     [
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89"
+      "branch-cliente",
+      "cliente-6"
     ],
     [
-      "c039eeec-2402-4dbb-bec8-d500f7eb15f2",
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87"
+      "branch-cliente",
+      "cliente-7"
     ],
     [
-      "90a55839-4c02-45f5-827b-7242453d69c1",
-      "44a81d88-0814-4fc0-9970-4d78deb3fd1f"
+      "root-0",
+      "branch-executor"
     ],
     [
-      "90a55839-4c02-45f5-827b-7242453d69c1",
-      "fc2d4500-661e-410c-a816-f78cb55837cc"
+      "branch-executor",
+      "executor-8"
     ],
     [
-      "90a55839-4c02-45f5-827b-7242453d69c1",
-      "84594d91-4add-4cdd-95ff-56dd75c0b663"
+      "branch-executor",
+      "executor-9"
     ],
     [
-      "90a55839-4c02-45f5-827b-7242453d69c1",
-      "28f5224f-746e-4b24-a415-6a39f5ce9359"
+      "branch-executor",
+      "executor-10"
     ],
     [
-      "90a55839-4c02-45f5-827b-7242453d69c1",
-      "158155cf-688a-4843-9be6-645f34bdad4a"
+      "branch-executor",
+      "executor-11"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d"
+      "branch-executor",
+      "executor-12"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "059ec612-017a-4275-a2a5-8087c4a686fd"
+      "branch-executor",
+      "executor-13"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "29239fdd-6927-4f3b-9874-9b0701f4a779"
+      "branch-executor",
+      "executor-14"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "5324dde3-76dd-405f-9ea3-df2ccf4419a5"
+      "root-0",
+      "branch-missoes"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "e1df8a7f-d5f2-43b1-8908-6983bbe033d7"
+      "branch-missoes",
+      "missoes-15"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "33807a4e-1dfe-4e34-b867-3249605e81fe"
+      "branch-missoes",
+      "missoes-16"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "6cacc30b-7638-4539-98d3-da0b720ef781"
+      "branch-missoes",
+      "missoes-17"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "e70c4e5e-b6ed-4938-9a6c-478b634b0e8f"
+      "branch-missoes",
+      "missoes-18"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "835de865-b908-46a4-aa28-2113823e72bb"
+      "branch-missoes",
+      "missoes-19"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "5a051e64-39e8-42da-b0b4-c7ce81884d99"
+      "branch-missoes",
+      "missoes-20"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "d3c663ad-ac03-434b-b814-50b545cbec65"
+      "branch-missoes",
+      "missoes-21"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "0b548cf4-80ba-4780-bd39-17e3faa84eec"
+      "branch-missoes",
+      "missoes-22"
     ],
     [
-      "f68dbb4e-af48-4ba9-9332-b666339772f8",
-      "1640ef67-c70b-465e-a4e7-bc04b4ee7018"
+      "root-0",
+      "branch-gatilhos"
     ],
     [
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "7e40c046-4337-4e17-aa6a-4cb972b0b808"
+      "branch-gatilhos",
+      "gatilhos-23"
     ],
     [
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "6bf04910-22a8-435e-9250-02354461ae99"
+      "branch-gatilhos",
+      "gatilhos-24"
     ],
     [
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "64f6ea4a-5985-4398-a086-4496dca6847e"
+      "branch-gatilhos",
+      "gatilhos-25"
     ],
     [
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "73b15771-dfd0-4545-b743-d37a191aaafe"
+      "branch-gatilhos",
+      "gatilhos-26"
     ],
     [
-      "fcd5014c-ac54-4d7d-bd6a-d5ed1bcaec2a",
-      "6f054733-d012-42f8-8b64-7a6f93976a5e"
+      "branch-gatilhos",
+      "gatilhos-27"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "1322653e-1f87-42a2-bf12-215a2e6d08f8"
+      "branch-gatilhos",
+      "gatilhos-28"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "07126c8f-2d82-4175-87a3-9ea9bc453e4b"
+      "branch-gatilhos",
+      "gatilhos-29"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "a4458998-b21a-45b0-8f2c-c643a865251c"
+      "branch-gatilhos",
+      "gatilhos-30"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "98ba04bd-2100-4ca2-8d87-af1789910ae0"
+      "root-0",
+      "branch-trafego"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "13bd7295-341c-47e1-9f52-a03b8345b360"
+      "branch-trafego",
+      "trafego-31"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "f9634b09-f0e2-4744-a64b-38cedea1416c"
+      "branch-trafego",
+      "trafego-32"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "c41c107b-9113-40d3-ba90-2168336c747e"
+      "branch-trafego",
+      "trafego-33"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "48e4a440-ce9d-4a3b-84df-f7c32395d498"
+      "branch-trafego",
+      "trafego-34"
     ],
     [
-      "ff119c39-4de0-4986-974e-ede1e121ea81",
-      "a741e8b7-f887-4ef1-947c-917a50550329"
+      "branch-trafego",
+      "trafego-35"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "8d87ee3b-5f4f-4f09-9c03-acc60726e7f3"
+      "branch-trafego",
+      "trafego-36"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "723b6446-1227-4601-9a37-8b79a2113cb6"
+      "branch-trafego",
+      "trafego-37"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "716844f6-67a8-4c56-a2a4-6aeea4878e6f"
+      "branch-trafego",
+      "trafego-38"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "58a4136d-64e0-4a9e-8f0c-9d5e03c7739d"
+      "root-0",
+      "branch-funis"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "035cd1e9-45ab-45ed-b2b6-a41b3e19356c"
+      "branch-funis",
+      "funis-39"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "f95f7a85-534c-4ba9-9d4b-93bd2816ee1d"
+      "branch-funis",
+      "funis-40"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "c371ed6c-ba2d-4b98-82dc-dd699790b812"
+      "branch-funis",
+      "funis-41"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "1961e1e4-1020-41d1-92a9-fb9001146e2b"
+      "branch-funis",
+      "funis-42"
     ],
     [
-      "2aa1ccfa-9545-4f98-97cb-17f9cad13e89",
-      "4aebe013-9c19-47e5-befc-1eb5f379ccaf"
+      "branch-funis",
+      "funis-43"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "752f42f7-1e25-446c-a391-e29ab4f7bbe1"
+      "branch-funis",
+      "funis-44"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "60d35040-997a-4830-987e-cdf0aca311be"
+      "branch-funis",
+      "funis-45"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "c145c015-f6e2-41b7-a46c-0658dc83e48b"
+      "branch-funis",
+      "funis-46"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "76f71055-817e-4f46-86b9-959802115b09"
+      "root-0",
+      "branch-monetizacao"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "17c77cd9-b32b-41e9-90e7-80133e0dd772"
+      "branch-monetizacao",
+      "monetizacao-47"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "c30596af-049f-4673-b53a-4b93abdc2108"
+      "branch-monetizacao",
+      "monetizacao-48"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "ef8091af-109e-4148-815e-14c8d4cca833"
+      "branch-monetizacao",
+      "monetizacao-49"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "3b0b25c1-4b52-41c9-8cc9-33bf740c4b24"
+      "branch-monetizacao",
+      "monetizacao-50"
     ],
     [
-      "fcd20208-bf4a-4ecb-b7dd-566f6fe79f87",
-      "d2c8ee71-0efb-44cb-bfef-aea9931c8daa"
+      "branch-monetizacao",
+      "monetizacao-51"
     ],
     [
-      "d8e6a2a2-a07e-4d34-b53a-c05cfd7f8f0d",
-      "527063e1-04c5-46db-bf83-fc7fa46a8d13"
+      "branch-monetizacao",
+      "monetizacao-52"
     ],
     [
-      "059ec612-017a-4275-a2a5-8087c4a686fd",
-      "bbf409c0-c424-4fc6-b683-95e2c7774acf"
+      "branch-monetizacao",
+      "monetizacao-53"
     ],
     [
-      "29239fdd-6927-4f3b-9874-9b0701f4a779",
-      "16a1dc04-c63c-4d7f-bbe0-24ae2b32fcc4"
+      "branch-monetizacao",
+      "monetizacao-54"
     ],
     [
-      "5324dde3-76dd-405f-9ea3-df2ccf4419a5",
-      "d8a13a68-882e-466a-8a27-88b5304c2feb"
+      "root-0",
+      "branch-marca"
     ],
     [
-      "e1df8a7f-d5f2-43b1-8908-6983bbe033d7",
-      "f59659e5-2373-4925-ba09-45c760014c69"
+      "branch-marca",
+      "marca-55"
     ],
     [
-      "33807a4e-1dfe-4e34-b867-3249605e81fe",
-      "3269f6ae-a3ae-46fd-9484-d1c78aa76901"
+      "branch-marca",
+      "marca-56"
     ],
     [
-      "e20a2f5a-ea6d-4399-a16e-feaf65907da2",
-      "d2094295-8465-4190-b51d-3000cced1fe5"
+      "branch-marca",
+      "marca-57"
     ],
     [
-      "d2094295-8465-4190-b51d-3000cced1fe5",
-      "1d4aa213-3bce-4273-a5c1-7f2a0f9e400d"
+      "branch-marca",
+      "marca-58"
     ],
     [
-      "44a81d88-0814-4fc0-9970-4d78deb3fd1f",
-      "e0dac9ac-f338-4800-a677-f09e227e8691"
-    ],
-    [
-      "fc2d4500-661e-410c-a816-f78cb55837cc",
-      "bd3ca1a9-30e7-4a5f-9d5b-da25c3083b43"
-    ],
-    [
-      "84594d91-4add-4cdd-95ff-56dd75c0b663",
-      "4216d3ba-1406-4b6a-9906-8da585c262d6"
-    ],
-    [
-      "28f5224f-746e-4b24-a415-6a39f5ce9359",
-      "d2e7dcdf-230e-4d3d-92d1-fd1d21549e14"
-    ],
-    [
-      "158155cf-688a-4843-9be6-645f34bdad4a",
-      "7d9a5d7b-87bc-419f-af8e-0496aa3da3f8"
+      "branch-marca",
+      "marca-59"
     ]
   ],
-  "root": "1b7c99b1-bfe4-4e0f-b3e5-4e3c7aad3098"
+  "root": "root-0"
 }
