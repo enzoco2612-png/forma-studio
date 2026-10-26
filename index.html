@@ -114,7 +114,7 @@ body.light .strategy-hub{background:#f3f6fc}body.light .hub-card,body.light .hub
   <div class="hero-copy"><div class="hero-eyebrow"><span class="live-dot"></span> FORMA STUDIO 4.0 <span class="hero-sep">/</span> PLANEJAMENTO DE MARKETPLACE</div>
   <h1>Transforme tarefas reais<br>em um <em>negócio escalável.</em></h1>
   <p>Uma estrutura completa para conectar quem precisa resolver uma missão com quem quer executá-la — com segurança, recorrência e operação viável.</p>
-  <div class="hero-actions"><button type="button" class="hub-primary" id="openStrategyMap">Explorar mapa visual <span>↗</span></button><button type="button" class="hub-secondary" id="restoreOriginal">Recuperar mapa anterior</button><button type="button" class="hub-secondary" id="restoreBackup72">Original · 72 blocos</button></div></div>
+  <div class="hero-actions"><button type="button" class="hub-primary" id="openStrategyMap">Explorar mapa visual <span>↗</span></button><button type="button" class="hub-secondary" id="reloadStrategy">Carregar modelo 360</button><button type="button" class="hub-secondary" id="restoreOriginal">Recuperar mapa anterior</button><button type="button" class="hub-secondary" id="restoreBackup72">Original · 72 blocos</button></div></div>
   <div class="hero-orbit" aria-hidden="true"><div class="orbit-ring ring-one"></div><div class="orbit-ring ring-two"></div><div class="orbit-core">✳</div><div class="orbit-tag top-tag">CONTRATANTES</div><div class="orbit-tag bottom-tag">EXECUTORES</div></div>
 </div>
 <div class="hub-stats" id="hubStats"></div>
@@ -273,6 +273,10 @@ $('mapNav').onclick=function(){showMap()};
 $('openStrategyMap').onclick=function(){showMap()};
 $('hubSearch').addEventListener('input',renderHub);
 $('hubPhase').addEventListener('change',renderHub);
+$('reloadStrategy').onclick=function(){
+ if(!confirm('Carregar o modelo estratégico 360? O mapa aberto será substituído; exporte seu JSON antes se quiser manter alterações.'))return;
+ checkpoint();model=structuredClone(STARTER_MODEL);selected=null;$('docTitle').value=model.title;render();changed();showHub();toast('Modelo 360 carregado');
+};
 $('restoreBackup72').onclick=function(){
  if(!confirm('Abrir a cópia original de 72 blocos? O mapa aberto será substituído; exporte seu trabalho atual se quiser preservá-lo.'))return;
  checkpoint();model=structuredClone(ORIGINAL_MODEL);selected=null;$('docTitle').value=model.title;render();changed();showMap();toast('Mapa original restaurado');
