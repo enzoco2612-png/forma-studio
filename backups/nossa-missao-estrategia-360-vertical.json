@@ -1,0 +1,2243 @@
+{
+  "title": "Nossa Missão • Estratégia 360",
+  "nodes": [
+    {
+      "id": "estrategia-central",
+      "x": -143,
+      "y": -14,
+      "w": 286,
+      "text": "MISSÕES\nMarketplace de tarefas reais",
+      "color": 0
+    },
+    {
+      "id": "area-posicionamento",
+      "x": -710,
+      "y": -1769,
+      "w": 260,
+      "text": "Proposta de valor",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-1",
+      "x": -1110,
+      "y": -2100,
+      "w": 295,
+      "text": "Para quem contrata: recuperar tempo e resolver pendências",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-2",
+      "x": -1110,
+      "y": -2016,
+      "w": 295,
+      "text": "Para quem executa: acessar missões locais compatíveis com a agenda",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-3",
+      "x": -1110,
+      "y": -1932,
+      "w": 295,
+      "text": "Missões claras: tarefa, local, prazo, preço e resultado esperado",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-4",
+      "x": -1110,
+      "y": -1848,
+      "w": 295,
+      "text": "Promessa para o cliente: praticidade com preço transparente",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-5",
+      "x": -1110,
+      "y": -1764,
+      "w": 295,
+      "text": "Promessa para o executor: flexibilidade, sem renda garantida",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-6",
+      "x": -1110,
+      "y": -1680,
+      "w": 295,
+      "text": "Começar por tarefas de baixo risco e alta recorrência",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-7",
+      "x": -1110,
+      "y": -1596,
+      "w": 295,
+      "text": "Diferencial: proximidade, confiança e execução verificável",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-posicionamento-8",
+      "x": -1110,
+      "y": -1512,
+      "w": 295,
+      "text": "Marca: 'Sua cidade resolve. Você ganha tempo.'",
+      "color": 0,
+      "category": "posicionamento",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes",
+      "x": 430,
+      "y": -1727,
+      "w": 260,
+      "text": "Públicos que contratam",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-1",
+      "x": 810,
+      "y": -2100,
+      "w": 295,
+      "text": "Profissionais com rotina corrida e pouco tempo",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-2",
+      "x": 810,
+      "y": -2016,
+      "w": 295,
+      "text": "Pais e mães com excesso de tarefas no dia a dia",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-3",
+      "x": 810,
+      "y": -1932,
+      "w": 295,
+      "text": "Moradores de condomínios e bairros movimentados",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-4",
+      "x": 810,
+      "y": -1848,
+      "w": 295,
+      "text": "Pequenos comércios que precisam de apoio pontual",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-5",
+      "x": 810,
+      "y": -1764,
+      "w": 295,
+      "text": "Pessoas que precisam resolver uma demanda urgente",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-6",
+      "x": 810,
+      "y": -1680,
+      "w": 295,
+      "text": "Famílias que organizam tarefas para parentes idosos",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-7",
+      "x": 810,
+      "y": -1596,
+      "w": 295,
+      "text": "Trabalhadores autônomos sem equipe operacional",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-8",
+      "x": 810,
+      "y": -1512,
+      "w": 295,
+      "text": "Pessoas que não podem estar fisicamente em determinado local",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-clientes-9",
+      "x": 810,
+      "y": -1428,
+      "w": 295,
+      "text": "Empreendedores e escritórios com demandas recorrentes",
+      "color": 1,
+      "category": "clientes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores",
+      "x": -710,
+      "y": -785,
+      "w": 260,
+      "text": "Públicos que executam",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-1",
+      "x": -1110,
+      "y": -1158,
+      "w": 295,
+      "text": "Freelancers e prestadores locais",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-2",
+      "x": -1110,
+      "y": -1074,
+      "w": 295,
+      "text": "Motoristas e entregadores em horários livres",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-3",
+      "x": -1110,
+      "y": -990,
+      "w": 295,
+      "text": "Pessoas maiores de 18 anos buscando renda extra",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-4",
+      "x": -1110,
+      "y": -906,
+      "w": 295,
+      "text": "Estudantes adultos com horários flexíveis",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-5",
+      "x": -1110,
+      "y": -822,
+      "w": 295,
+      "text": "CLT buscando complementar a renda",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-6",
+      "x": -1110,
+      "y": -738,
+      "w": 295,
+      "text": "Profissionais autônomos já avaliados por clientes",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-7",
+      "x": -1110,
+      "y": -654,
+      "w": 295,
+      "text": "Parceiros especializados para missões técnicas permitidas",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-8",
+      "x": -1110,
+      "y": -570,
+      "w": 295,
+      "text": "Executor iniciante: onboarding, regras e reputação",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-executores-9",
+      "x": -1110,
+      "y": -486,
+      "w": 295,
+      "text": "Disponibilidade por bairro, distância e categoria",
+      "color": 2,
+      "category": "executores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes",
+      "x": 430,
+      "y": -575,
+      "w": 260,
+      "text": "Catálogo de missões",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-1",
+      "x": 810,
+      "y": -1074,
+      "w": 295,
+      "text": "Ficar em filas permitidas e dentro das regras do local",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-2",
+      "x": 810,
+      "y": -990,
+      "w": 295,
+      "text": "Retirar encomendas autorizadas",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-3",
+      "x": 810,
+      "y": -906,
+      "w": 295,
+      "text": "Buscar ou entregar documentos não sensíveis",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-4",
+      "x": 810,
+      "y": -822,
+      "w": 295,
+      "text": "Fazer pequenas compras de mercado e farmácia sem itens restritos",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-5",
+      "x": 810,
+      "y": -738,
+      "w": 295,
+      "text": "Levar ou buscar objetos de pequeno porte",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-6",
+      "x": 810,
+      "y": -654,
+      "w": 295,
+      "text": "Apoio em organização simples e tarefas domésticas leves",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-7",
+      "x": 810,
+      "y": -570,
+      "w": 295,
+      "text": "Passeio com pets, mediante critérios e perfil adequado",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-8",
+      "x": 810,
+      "y": -486,
+      "w": 295,
+      "text": "Apoio para resolver pendências em comércios locais",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-9",
+      "x": 810,
+      "y": -402,
+      "w": 295,
+      "text": "Suporte básico de informática e celular",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-10",
+      "x": 810,
+      "y": -318,
+      "w": 295,
+      "text": "Montagem simples sem risco elétrico ou estrutural",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-11",
+      "x": 810,
+      "y": -234,
+      "w": 295,
+      "text": "Missões recorrentes agendadas",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-missoes-12",
+      "x": 810,
+      "y": -150,
+      "w": 295,
+      "text": "Separar atividades técnicas regulamentadas para profissionais habilitados",
+      "color": 3,
+      "category": "missoes",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores",
+      "x": -710,
+      "y": 283,
+      "w": 260,
+      "text": "Dores e ângulos",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-1",
+      "x": -1110,
+      "y": -132,
+      "w": 295,
+      "text": "Falta de tempo: 'Resolva sem perder sua tarde'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-2",
+      "x": -1110,
+      "y": -48,
+      "w": 295,
+      "text": "Urgência: 'Precisa de alguém perto agora?'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-3",
+      "x": -1110,
+      "y": 36,
+      "w": 295,
+      "text": "Filas: 'Sua hora vale mais do que uma fila'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-4",
+      "x": -1110,
+      "y": 120,
+      "w": 295,
+      "text": "Conveniência: 'Uma tarefa a menos hoje'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-5",
+      "x": -1110,
+      "y": 204,
+      "w": 295,
+      "text": "Pequenos negócios: 'Reforce sua operação quando precisar'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-6",
+      "x": -1110,
+      "y": 288,
+      "w": 295,
+      "text": "Executor: 'Encontre missões compatíveis com sua rotina'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-7",
+      "x": -1110,
+      "y": 372,
+      "w": 295,
+      "text": "Estudantes adultos: 'Missões pontuais nos horários livres'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-8",
+      "x": -1110,
+      "y": 456,
+      "w": 295,
+      "text": "Trabalhador de app: 'Amplie suas opções além das corridas'",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-9",
+      "x": -1110,
+      "y": 540,
+      "w": 295,
+      "text": "Jovens adultos: autonomia e tarefas locais",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-dores-10",
+      "x": -1110,
+      "y": 624,
+      "w": 295,
+      "text": "Dívidas e emprego: comunicar oportunidade, nunca renda certa",
+      "color": 4,
+      "category": "dores",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-aquisicao-clientes",
+      "x": 430,
+      "y": 619,
+      "w": 260,
+      "text": "Aquisição de clientes",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-1",
+      "x": 810,
+      "y": 204,
+      "w": 295,
+      "text": "Meta Ads: problema → missão → resultado → app",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-2",
+      "x": 810,
+      "y": 288,
+      "w": 295,
+      "text": "Google Ads: pesquisas específicas por tarefa + cidade",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-3",
+      "x": 810,
+      "y": 372,
+      "w": 295,
+      "text": "TikTok/Reels: demonstrações reais da solução",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-4",
+      "x": 810,
+      "y": 456,
+      "w": 295,
+      "text": "Criadores de conteúdo locais com público de bairros definidos",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-5",
+      "x": 810,
+      "y": 540,
+      "w": 295,
+      "text": "Parcerias com condomínios, mercados e comércios",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-6",
+      "x": 810,
+      "y": 624,
+      "w": 295,
+      "text": "Landing pages por missão e região atendida",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-7",
+      "x": 810,
+      "y": 708,
+      "w": 295,
+      "text": "SEO local: páginas de categorias e dúvidas",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-8",
+      "x": 810,
+      "y": 792,
+      "w": 295,
+      "text": "Indicação entre clientes após missão concluída",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-9",
+      "x": 810,
+      "y": 876,
+      "w": 295,
+      "text": "Retargeting para interessados que não solicitaram",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-clientes-10",
+      "x": 810,
+      "y": 960,
+      "w": 295,
+      "text": "Testar campanhas em um bairro antes de ampliar",
+      "color": 5,
+      "category": "aquisicao-clientes",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores",
+      "x": -710,
+      "y": 1393,
+      "w": 260,
+      "text": "Aquisição de executores",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-1",
+      "x": -1110,
+      "y": 978,
+      "w": 295,
+      "text": "Campanhas geolocalizadas por bairro e disponibilidade",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-2",
+      "x": -1110,
+      "y": 1062,
+      "w": 295,
+      "text": "Parcerias com escolas técnicas e faculdades para adultos",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-3",
+      "x": -1110,
+      "y": 1146,
+      "w": 295,
+      "text": "Comunidades de prestadores e microempreendedores",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-4",
+      "x": -1110,
+      "y": 1230,
+      "w": 295,
+      "text": "Programa de indicação após boa execução",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-5",
+      "x": -1110,
+      "y": 1314,
+      "w": 295,
+      "text": "Perfil com categorias, raio de atuação e horários",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-6",
+      "x": -1110,
+      "y": 1398,
+      "w": 295,
+      "text": "Onboarding em etapas com checagem de identidade",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-7",
+      "x": -1110,
+      "y": 1482,
+      "w": 295,
+      "text": "Treinamento curto sobre escopo, segurança e atendimento",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-8",
+      "x": -1110,
+      "y": 1566,
+      "w": 295,
+      "text": "Ativação: concluir cadastro e aceitar primeira missão",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-9",
+      "x": -1110,
+      "y": 1650,
+      "w": 295,
+      "text": "Evitar adquirir executores sem demanda próxima",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-aquisicao-executores-10",
+      "x": -1110,
+      "y": 1734,
+      "w": 295,
+      "text": "Não anunciar ganhos ou volume de missões como garantidos",
+      "color": 6,
+      "category": "aquisicao-executores",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-funis",
+      "x": 430,
+      "y": 1771,
+      "w": 260,
+      "text": "Funis e conversão",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-1",
+      "x": 810,
+      "y": 1314,
+      "w": 295,
+      "text": "Anúncio de missão específica → landing curta → pedido",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-2",
+      "x": 810,
+      "y": 1398,
+      "w": 295,
+      "text": "Tráfego de intenção → categoria → localização → orçamento",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-3",
+      "x": 810,
+      "y": 1482,
+      "w": 295,
+      "text": "Quiz simples: 'O que você precisa resolver?'",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-4",
+      "x": 810,
+      "y": 1566,
+      "w": 295,
+      "text": "Fluxo contratante e fluxo executor separados",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-5",
+      "x": 810,
+      "y": 1650,
+      "w": 295,
+      "text": "Verificar cidade e disponibilidade antes de pedir cadastro longo",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-6",
+      "x": 810,
+      "y": 1734,
+      "w": 295,
+      "text": "Preço e taxas apresentados antes da confirmação",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-7",
+      "x": 810,
+      "y": 1818,
+      "w": 295,
+      "text": "Provas sociais somente reais e autorizadas",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-8",
+      "x": 810,
+      "y": 1902,
+      "w": 295,
+      "text": "Suporte humano no primeiro pedido complexo",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-9",
+      "x": 810,
+      "y": 1986,
+      "w": 295,
+      "text": "Retargeting respeitando consentimento e privacidade",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-10",
+      "x": 810,
+      "y": 2070,
+      "w": 295,
+      "text": "Recuperação de solicitações abandonadas",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-funis-11",
+      "x": 810,
+      "y": 2154,
+      "w": 295,
+      "text": "Acompanhamento de origem via UTMs e eventos consentidos",
+      "color": 7,
+      "category": "funis",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-produto",
+      "x": -710,
+      "y": 2545,
+      "w": 260,
+      "text": "Experiência do produto",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-1",
+      "x": -1110,
+      "y": 2088,
+      "w": 295,
+      "text": "Criar missão com fotos, local, prazo e instruções",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-2",
+      "x": -1110,
+      "y": 2172,
+      "w": 295,
+      "text": "Categorias com escopo e itens proibidos",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-3",
+      "x": -1110,
+      "y": 2256,
+      "w": 295,
+      "text": "Encontrar prestador por proximidade e disponibilidade",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-4",
+      "x": -1110,
+      "y": 2340,
+      "w": 295,
+      "text": "Mostrar valor total e condições de cancelamento",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-5",
+      "x": -1110,
+      "y": 2424,
+      "w": 295,
+      "text": "Chat protegido dentro do aplicativo",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-6",
+      "x": -1110,
+      "y": 2508,
+      "w": 295,
+      "text": "Status: publicada → aceita → em andamento → concluída",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-7",
+      "x": -1110,
+      "y": 2592,
+      "w": 295,
+      "text": "Comprovação de início e conclusão com consentimento",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-8",
+      "x": -1110,
+      "y": 2676,
+      "w": 295,
+      "text": "Avaliação bilateral e histórico de missões",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-9",
+      "x": -1110,
+      "y": 2760,
+      "w": 295,
+      "text": "Central de ajuda e suporte em disputa",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-10",
+      "x": -1110,
+      "y": 2844,
+      "w": 295,
+      "text": "Reembolso e cancelamento com regras claras",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-produto-11",
+      "x": -1110,
+      "y": 2928,
+      "w": 295,
+      "text": "Preferências de horários e missões favoritas",
+      "color": 8,
+      "category": "produto",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca",
+      "x": 430,
+      "y": 3007,
+      "w": 260,
+      "text": "Segurança e confiança",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-1",
+      "x": 810,
+      "y": 2508,
+      "w": 295,
+      "text": "Verificação de identidade de executores",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-2",
+      "x": 810,
+      "y": 2592,
+      "w": 295,
+      "text": "Avaliações autênticas e mecanismos contra fraude",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-3",
+      "x": 810,
+      "y": 2676,
+      "w": 295,
+      "text": "Código de confirmação para início e conclusão",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-4",
+      "x": 810,
+      "y": 2760,
+      "w": 295,
+      "text": "Pagamento intermediado por provedor adequado",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-5",
+      "x": 810,
+      "y": 2844,
+      "w": 295,
+      "text": "Política de tarefas proibidas e condições de segurança",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-6",
+      "x": 810,
+      "y": 2928,
+      "w": 295,
+      "text": "Canal de denúncia e resolução de disputas",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-7",
+      "x": 810,
+      "y": 3012,
+      "w": 295,
+      "text": "Proteção de dados, localização e documentos (LGPD)",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-8",
+      "x": 810,
+      "y": 3096,
+      "w": 295,
+      "text": "Não compartilhar dados além do necessário",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-9",
+      "x": 810,
+      "y": 3180,
+      "w": 295,
+      "text": "Critérios especiais para serviços com acesso a residências",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-10",
+      "x": 810,
+      "y": 3264,
+      "w": 295,
+      "text": "Atividades regulamentadas apenas por habilitados",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-11",
+      "x": 810,
+      "y": 3348,
+      "w": 295,
+      "text": "Definir cobertura e responsabilidade com assessoria jurídica",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-confianca-12",
+      "x": 810,
+      "y": 3432,
+      "w": 295,
+      "text": "Atendimento e escalonamento para incidentes",
+      "color": 9,
+      "category": "confianca",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao",
+      "x": -710,
+      "y": 3739,
+      "w": 260,
+      "text": "Modelo de receita",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-1",
+      "x": -1110,
+      "y": 3282,
+      "w": 295,
+      "text": "Taxa de intermediação por missão concluída",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-2",
+      "x": -1110,
+      "y": 3366,
+      "w": 295,
+      "text": "Preço total transparente antes da contratação",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-3",
+      "x": -1110,
+      "y": 3450,
+      "w": 295,
+      "text": "Piso de rentabilidade para missões pequenas",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-4",
+      "x": -1110,
+      "y": 3534,
+      "w": 295,
+      "text": "Precificação por deslocamento, tempo e complexidade",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-5",
+      "x": -1110,
+      "y": 3618,
+      "w": 295,
+      "text": "Taxa de urgência quando houver oferta real",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-6",
+      "x": -1110,
+      "y": 3702,
+      "w": 295,
+      "text": "Repasse ao executor com prazos definidos",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-7",
+      "x": -1110,
+      "y": 3786,
+      "w": 295,
+      "text": "Custos: pagamento, suporte, estorno, fraude e aquisição",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-8",
+      "x": -1110,
+      "y": 3870,
+      "w": 295,
+      "text": "Medir margem de contribuição por categoria",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-9",
+      "x": -1110,
+      "y": 3954,
+      "w": 295,
+      "text": "Assinatura para demandas frequentes após validação",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-10",
+      "x": -1110,
+      "y": 4038,
+      "w": 295,
+      "text": "Planos para comércios e condomínios quando houver repetição",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-monetizacao-11",
+      "x": -1110,
+      "y": 4122,
+      "w": 295,
+      "text": "Regras claras para cancelamentos e reembolsos",
+      "color": 10,
+      "category": "monetizacao",
+      "priority": "Operação"
+    },
+    {
+      "id": "area-retencao",
+      "x": 430,
+      "y": 4201,
+      "w": 260,
+      "text": "Retenção e recorrência",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-1",
+      "x": 810,
+      "y": 3786,
+      "w": 295,
+      "text": "Repetir missão com poucos toques",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-2",
+      "x": 810,
+      "y": 3870,
+      "w": 295,
+      "text": "Salvar prestadores favoritos quando apropriado",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-3",
+      "x": 810,
+      "y": 3954,
+      "w": 295,
+      "text": "Missões agendadas semanalmente",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-4",
+      "x": 810,
+      "y": 4038,
+      "w": 295,
+      "text": "Notificações úteis e não invasivas",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-5",
+      "x": 810,
+      "y": 4122,
+      "w": 295,
+      "text": "Recompensas por recorrência sustentável",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-6",
+      "x": 810,
+      "y": 4206,
+      "w": 295,
+      "text": "Indicação após missão bem avaliada",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-7",
+      "x": 810,
+      "y": 4290,
+      "w": 295,
+      "text": "Reativação de cliente inativo com missão relevante",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-8",
+      "x": 810,
+      "y": 4374,
+      "w": 295,
+      "text": "Programas para pequenos negócios recorrentes",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-9",
+      "x": 810,
+      "y": 4458,
+      "w": 295,
+      "text": "Melhorar reputação do executor via qualidade comprovada",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-retencao-10",
+      "x": 810,
+      "y": 4542,
+      "w": 295,
+      "text": "Pesquisa de satisfação e razão de cancelamento",
+      "color": 11,
+      "category": "retencao",
+      "priority": "Crescimento"
+    },
+    {
+      "id": "area-metricas",
+      "x": -710,
+      "y": 4975,
+      "w": 260,
+      "text": "Validação e métricas",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-1",
+      "x": -1110,
+      "y": 4476,
+      "w": 295,
+      "text": "Escolher uma cidade e um bairro piloto",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-2",
+      "x": -1110,
+      "y": 4560,
+      "w": 295,
+      "text": "Entrevistas com contratantes e executores reais",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-3",
+      "x": -1110,
+      "y": 4644,
+      "w": 295,
+      "text": "Testar as 3 categorias de maior intenção local",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-4",
+      "x": -1110,
+      "y": 4728,
+      "w": 295,
+      "text": "Taxa de publicação de missões",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-5",
+      "x": -1110,
+      "y": 4812,
+      "w": 295,
+      "text": "Taxa de aceite e tempo para encontrar executor",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-6",
+      "x": -1110,
+      "y": 4896,
+      "w": 295,
+      "text": "Taxa de conclusão e cancelamentos",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-7",
+      "x": -1110,
+      "y": 4980,
+      "w": 295,
+      "text": "CAC de clientes e custo de ativar executores",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-8",
+      "x": -1110,
+      "y": 5064,
+      "w": 295,
+      "text": "Margem por missão depois de suporte e pagamento",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-9",
+      "x": -1110,
+      "y": 5148,
+      "w": 295,
+      "text": "Recompra em 7, 30 e 60 dias",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-10",
+      "x": -1110,
+      "y": 5232,
+      "w": 295,
+      "text": "NPS e principais reclamações",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-11",
+      "x": -1110,
+      "y": 5316,
+      "w": 295,
+      "text": "Liquidez por bairro, horário e categoria",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-metricas-12",
+      "x": -1110,
+      "y": 5400,
+      "w": 295,
+      "text": "Fraudes, disputas e incidentes reportados",
+      "color": 12,
+      "category": "metricas",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap",
+      "x": 430,
+      "y": 5311,
+      "w": 260,
+      "text": "Roadmap de execução",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-1",
+      "x": 810,
+      "y": 4896,
+      "w": 295,
+      "text": "1 · Validar necessidade real em uma região",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-2",
+      "x": 810,
+      "y": 4980,
+      "w": 295,
+      "text": "2 · Definir missões permitidas e escopo",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-3",
+      "x": 810,
+      "y": 5064,
+      "w": 295,
+      "text": "3 · Recrutar executores verificados por bairro",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-4",
+      "x": 810,
+      "y": 5148,
+      "w": 295,
+      "text": "4 · Rodar piloto operacional com acompanhamento humano",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-5",
+      "x": 810,
+      "y": 5232,
+      "w": 295,
+      "text": "5 · Ajustar preço, taxas, confiança e cancelamento",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-6",
+      "x": 810,
+      "y": 5316,
+      "w": 295,
+      "text": "6 · Lançar MVP de publicação e aceite",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-7",
+      "x": 810,
+      "y": 5400,
+      "w": 295,
+      "text": "7 · Otimizar conversão e repetição",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-8",
+      "x": 810,
+      "y": 5484,
+      "w": 295,
+      "text": "8 · Ampliar categorias que têm boa liquidez",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-9",
+      "x": 810,
+      "y": 5568,
+      "w": 295,
+      "text": "9 · Formalizar parcerias comerciais",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    },
+    {
+      "id": "area-roadmap-10",
+      "x": 810,
+      "y": 5652,
+      "w": 295,
+      "text": "10 · Expandir bairro a bairro com unit economics saudável",
+      "color": 13,
+      "category": "roadmap",
+      "priority": "MVP"
+    }
+  ],
+  "edges": [
+    [
+      "estrategia-central",
+      "area-posicionamento"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-1"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-2"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-3"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-4"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-5"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-6"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-7"
+    ],
+    [
+      "area-posicionamento",
+      "area-posicionamento-8"
+    ],
+    [
+      "estrategia-central",
+      "area-clientes"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-1"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-2"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-3"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-4"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-5"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-6"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-7"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-8"
+    ],
+    [
+      "area-clientes",
+      "area-clientes-9"
+    ],
+    [
+      "estrategia-central",
+      "area-executores"
+    ],
+    [
+      "area-executores",
+      "area-executores-1"
+    ],
+    [
+      "area-executores",
+      "area-executores-2"
+    ],
+    [
+      "area-executores",
+      "area-executores-3"
+    ],
+    [
+      "area-executores",
+      "area-executores-4"
+    ],
+    [
+      "area-executores",
+      "area-executores-5"
+    ],
+    [
+      "area-executores",
+      "area-executores-6"
+    ],
+    [
+      "area-executores",
+      "area-executores-7"
+    ],
+    [
+      "area-executores",
+      "area-executores-8"
+    ],
+    [
+      "area-executores",
+      "area-executores-9"
+    ],
+    [
+      "estrategia-central",
+      "area-missoes"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-1"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-2"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-3"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-4"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-5"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-6"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-7"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-8"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-9"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-10"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-11"
+    ],
+    [
+      "area-missoes",
+      "area-missoes-12"
+    ],
+    [
+      "estrategia-central",
+      "area-dores"
+    ],
+    [
+      "area-dores",
+      "area-dores-1"
+    ],
+    [
+      "area-dores",
+      "area-dores-2"
+    ],
+    [
+      "area-dores",
+      "area-dores-3"
+    ],
+    [
+      "area-dores",
+      "area-dores-4"
+    ],
+    [
+      "area-dores",
+      "area-dores-5"
+    ],
+    [
+      "area-dores",
+      "area-dores-6"
+    ],
+    [
+      "area-dores",
+      "area-dores-7"
+    ],
+    [
+      "area-dores",
+      "area-dores-8"
+    ],
+    [
+      "area-dores",
+      "area-dores-9"
+    ],
+    [
+      "area-dores",
+      "area-dores-10"
+    ],
+    [
+      "estrategia-central",
+      "area-aquisicao-clientes"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-1"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-2"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-3"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-4"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-5"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-6"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-7"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-8"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-9"
+    ],
+    [
+      "area-aquisicao-clientes",
+      "area-aquisicao-clientes-10"
+    ],
+    [
+      "estrategia-central",
+      "area-aquisicao-executores"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-1"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-2"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-3"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-4"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-5"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-6"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-7"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-8"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-9"
+    ],
+    [
+      "area-aquisicao-executores",
+      "area-aquisicao-executores-10"
+    ],
+    [
+      "estrategia-central",
+      "area-funis"
+    ],
+    [
+      "area-funis",
+      "area-funis-1"
+    ],
+    [
+      "area-funis",
+      "area-funis-2"
+    ],
+    [
+      "area-funis",
+      "area-funis-3"
+    ],
+    [
+      "area-funis",
+      "area-funis-4"
+    ],
+    [
+      "area-funis",
+      "area-funis-5"
+    ],
+    [
+      "area-funis",
+      "area-funis-6"
+    ],
+    [
+      "area-funis",
+      "area-funis-7"
+    ],
+    [
+      "area-funis",
+      "area-funis-8"
+    ],
+    [
+      "area-funis",
+      "area-funis-9"
+    ],
+    [
+      "area-funis",
+      "area-funis-10"
+    ],
+    [
+      "area-funis",
+      "area-funis-11"
+    ],
+    [
+      "estrategia-central",
+      "area-produto"
+    ],
+    [
+      "area-produto",
+      "area-produto-1"
+    ],
+    [
+      "area-produto",
+      "area-produto-2"
+    ],
+    [
+      "area-produto",
+      "area-produto-3"
+    ],
+    [
+      "area-produto",
+      "area-produto-4"
+    ],
+    [
+      "area-produto",
+      "area-produto-5"
+    ],
+    [
+      "area-produto",
+      "area-produto-6"
+    ],
+    [
+      "area-produto",
+      "area-produto-7"
+    ],
+    [
+      "area-produto",
+      "area-produto-8"
+    ],
+    [
+      "area-produto",
+      "area-produto-9"
+    ],
+    [
+      "area-produto",
+      "area-produto-10"
+    ],
+    [
+      "area-produto",
+      "area-produto-11"
+    ],
+    [
+      "estrategia-central",
+      "area-confianca"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-1"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-2"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-3"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-4"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-5"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-6"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-7"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-8"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-9"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-10"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-11"
+    ],
+    [
+      "area-confianca",
+      "area-confianca-12"
+    ],
+    [
+      "estrategia-central",
+      "area-monetizacao"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-1"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-2"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-3"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-4"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-5"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-6"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-7"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-8"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-9"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-10"
+    ],
+    [
+      "area-monetizacao",
+      "area-monetizacao-11"
+    ],
+    [
+      "estrategia-central",
+      "area-retencao"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-1"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-2"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-3"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-4"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-5"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-6"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-7"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-8"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-9"
+    ],
+    [
+      "area-retencao",
+      "area-retencao-10"
+    ],
+    [
+      "estrategia-central",
+      "area-metricas"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-1"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-2"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-3"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-4"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-5"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-6"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-7"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-8"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-9"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-10"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-11"
+    ],
+    [
+      "area-metricas",
+      "area-metricas-12"
+    ],
+    [
+      "estrategia-central",
+      "area-roadmap"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-1"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-2"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-3"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-4"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-5"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-6"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-7"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-8"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-9"
+    ],
+    [
+      "area-roadmap",
+      "area-roadmap-10"
+    ]
+  ],
+  "root": "estrategia-central",
+  "version": 4
+}
